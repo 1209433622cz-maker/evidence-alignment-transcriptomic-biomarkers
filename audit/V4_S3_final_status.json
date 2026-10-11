@@ -1,0 +1,47 @@
+{
+  "stage": "V4_S3_TRIO_RANDOMIZATION_IDENTIFIABILITY_FINAL_CLOSURE",
+  "date": "2026-10-11",
+  "source_hashes_pass": true,
+  "public_counts": {
+    "n": 110,
+    "unique_ids": 110,
+    "arm_n": {
+      "1": 31,
+      "2": 29,
+      "3": 50
+    },
+    "arm_pcr": {
+      "1": 15,
+      "2": 7,
+      "3": 25
+    },
+    "arm_non_pcr": {
+      "1": 16,
+      "2": 22,
+      "3": 25
+    }
+  },
+  "raw_assignment_phase_field_present": false,
+  "participant_level_phase_mapping_recovered": false,
+  "design_level_partial_identifiability": true,
+  "arm1_design_identified_randomized": true,
+  "arm2_design_identified_randomized": true,
+  "arm3_participant_phase_resolved": false,
+  "conditional_arm3_randomized_n_range": [
+    30,
+    38
+  ],
+  "conditional_arm3_randomized_pcr_raw_proportion_range": [
+    0.484848484848,
+    0.6
+  ],
+  "aggregate_bound_is_confidence_interval": false,
+  "aggregate_bound_identifies_marker_treatment_interaction": false,
+  "pseudo_corrected_model_run": false,
+  "simulation_run": false,
+  "simulation_decision": "CANCELLED_NO_INCREMENTAL_IDENTIFICATION_VALUE",
+  "trio_objects_updated": 10,
+  "randomized_replication_status": "NOT_ELIGIBLE_FOR_PURE_RANDOMIZED_INFERENCE",
+  "branch": "B_NO_AUTHORITATIVE_PARTICIPANT_LEVEL_MAPPING",
+  "gate": "ACCEPT_V4_S3_DESIGN_LEVEL_PARTIAL_IDENTIFIABILITY__TRIO_ARM3_PHASE_NOT_RECOVERED__NO_CORRECTED_RANDOMIZED_INTERACTION__READY_FOR_V4_S4_SUPPORTIVE_RESULT_TRIAGE_AND_FIGURE_SOURCE_FREEZE__HOLD_SUBMISSION"
+}

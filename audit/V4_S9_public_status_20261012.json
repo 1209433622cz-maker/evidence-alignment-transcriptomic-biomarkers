@@ -1,0 +1,21 @@
+{
+  "manuscript_version": "1.4",
+  "stage": "V4_S9",
+  "status": "PUBLIC_AGGREGATE_PREPARATION_PASS__HOLD_AUTHOR_TRUTH_FIELDS__HOLD_SUBMISSION",
+  "author_truth_categories_open": 11,
+  "submission": "HOLD",
+  "statistical_refit_in_s9": false,
+  "current_main_figures": 4,
+  "actual_panels": 11,
+  "historical_labels_modified": false,
+  "private_documents_unchanged": true,
+  "wps_visual_history_pages": 38,
+  "new_wps_render_in_s9": false,
+  "libreoffice_used": false,
+  "participant_level_data_redistributed": false,
+  "full_local_inventory_public": false,
+  "local_baseline_files": 67098,
+  "local_baseline_logical_bytes": 4265073613,
+  "local_migration_verification": "67098/67098 PASS",
+  "next_stage": "REAL_AUTHOR_FACT_COMPLETION__WPS_ONLY_FINAL_DOCUMENT_QA__AUTHORIZED_PORTAL_UPLOAD"
+}

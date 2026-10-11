@@ -1,0 +1,21 @@
+item_id	topic	decision_or_value	status	evidence_or_remaining_requirement
+S6H-D01	scientific_direction	Retain RPv4 finite retrospective empirical methods study	CLOSED_USER_APPROVED	User statement 2026-10-11
+S6H-D02	statistical_scope	No new refit without an evidence-triggered reason	CLOSED_USER_APPROVED	User statement 2026-10-11
+S6H-D03	conditional_first_journal	BMC Medical Research Methodology	CLOSED_USER_APPROVED_CONDITIONAL	Editorial scope classification remains external
+S6H-D04	candidate_article_type	Research Article	CLOSED_USER_APPROVED_CONDITIONAL	Use article-type enquiry before submission
+S6H-D05	abstract_safety_trim	Reduce from 350 to 334 words without scientific change	CLOSED_AND_APPLIED	Candidate v1.2
+S6H-D06	github_sync	HOLD	CLOSED_DECISION_HOLD	Requires a separate public-release authorization after privacy and licence audit
+S6H-D07	final_submission	HOLD	CLOSED_DECISION_HOLD	Requires truth fields, final WPS QA and final author approval
+S6H-T01	author_list_and_order		OPEN_VALUE_MISSING	Full publication names, order and authorship confirmation required
+S6H-T02	affiliations		OPEN_VALUE_MISSING	Author-affiliation mapping and official addresses required
+S6H-T03	corresponding_author		OPEN_VALUE_MISSING	Name, postal address, email and any required telephone required
+S6H-T04	CRediT		OPEN_VALUE_MISSING	Role allocation by author required
+S6H-T05	funding_and_funder_role		OPEN_VALUE_MISSING	Real funder, grant and role or explicit no-funding confirmation required
+S6H-T06	competing_interests		OPEN_VALUE_MISSING	Per-author financial and non-financial confirmation required
+S6H-T07	ethics_and_consent		OPEN_VALUE_MISSING	Institution-specific determination and consent wording required
+S6H-T08	acknowledgements		OPEN_VALUE_MISSING	Names and permission or explicit none confirmation required
+S6H-T09	data_code_repository		OPEN_VALUE_MISSING	URL, DOI, licence and restricted-input boundary required
+S6H-T10	AI_LLM_truth_path		OPEN_VALUE_MISSING	Tools, versions, dates, uses and human verification required
+S6H-T11	SCI_quartile_rule		OPEN_VALUE_MISSING	Ranking system, year, category and institutional rule required
+S6H-X01	article_type_enquiry_transmission	APPROVED_IN_PRINCIPLE_NOT_SENT	BLOCKED_IDENTITY	Corresponding-author identity and outgoing-channel authorization required
+S7G-D01	github_sync	AUTHORIZED_AND_COMPLETED	CLOSED_USER_AUTHORIZED	User explicitly authorized GitHub push on 2026-10-11 after aggregate-only privacy and licence review

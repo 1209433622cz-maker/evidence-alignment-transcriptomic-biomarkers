@@ -1,0 +1,104 @@
+{
+  "validator": "independent_validate_v4_s3.py",
+  "date": "2026-10-11",
+  "checks_total": 19,
+  "checks_passed": 19,
+  "overall_pass": true,
+  "checks": [
+    {
+      "check": "public_rows_110",
+      "pass": true,
+      "detail": "observed=110"
+    },
+    {
+      "check": "public_ids_unique",
+      "pass": true,
+      "detail": "unique=110"
+    },
+    {
+      "check": "arm_counts",
+      "pass": true,
+      "detail": "{'3': 50, '1': 31, '2': 29}"
+    },
+    {
+      "check": "pcr_counts",
+      "pass": true,
+      "detail": "{'3': 25, '1': 15, '2': 7}"
+    },
+    {
+      "check": "ledger_rows_110",
+      "pass": true,
+      "detail": "observed=110"
+    },
+    {
+      "check": "ledger_phase_unknown",
+      "pass": true,
+      "detail": "Counter({'UNKNOWN': 110})"
+    },
+    {
+      "check": "no_raw_phase_column",
+      "pass": true,
+      "detail": "ID,Age,Race,Ethnicity..Hisp.Non.Hisp.,Arm,Prior.Hormone.Replacement..Yes.No.,ER.Status,PR.Status,ER.PR.Status,Hist.Type..IDC.ILC.,Hist..Grade,BL.Tumor.status..T.,BL.LN.Status..N.,pCR,HER2_IHC,HER2_FISH_Value,HER2_FISH_Ratio,TumorCellularity.Entire.Baseline,InflammatoryCellularity.Baseline,Lymphocytes.Baseline,sTILs.Baseline,IS,IC,ESR1_DESMEDT,ERBB2_DESMEDT_UP,PAM50_PROLIF,Immune_ESTIMATE,GEPARSIXTO_IMMUNE,Teff-high,N9831_IMMUNE,Stromal_ESTIMATE,Stromal_FARMER,Stromal_DESMEDT,HALLMARK_TNFA_SIGNALING_VIA_NFKB,HALLMARK_HYPOXIA,HALLMARK_MITOTIC_SPINDLE,HALLMARK_WNT_BETA_CATENIN_SIGNALING,HALLMARK_TGF_BETA_SIGNALING,HALLMARK_IL6_JAK_STAT3_SIGNALING,HALLMARK_DNA_REPAIR,HALLMARK_G2M_CHECKPOINT,HALLMARK_APOPTOSIS,HALLMARK_NOTCH_SIGNALING,HALLMARK_ADIPOGENESIS,HALLMARK_ESTROGEN_RESPONSE_EARLY,HALLMARK_ESTROGEN_RESPONSE_LATE,HALLMARK_ANDROGEN_RESPONSE,HALLMARK_PROTEIN_SECRETION,HALLMARK_INTERFERON_ALPHA_RESPONSE,HALLMARK_INTERFERON_GAMMA_RESPONSE,HALLMARK_HEDGEHOG_SIGNALING,HALLMARK_COMPLEMENT,HALLMARK_UNFOLDED_PROTEIN_RESPONSE,HALLMARK_PI3K_AKT_MTOR_SIGNALING,HALLMARK_MTORC1_SIGNALING,HALLMARK_E2F_TARGETS,HALLMARK_MYC_TARGETS_V1,HALLMARK_MYC_TARGETS_V2,HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION,HALLMARK_INFLAMMATORY_RESPONSE,HALLMARK_FATTY_ACID_METABOLISM,HALLMARK_OXIDATIVE_PHOSPHORYLATION,HALLMARK_GLYCOLYSIS,HALLMARK_REACTIVE_OXIGEN_SPECIES_PATHWAY,HALLMARK_P53_PATHWAY,HALLMARK_ANGIOGENESIS,HALLMARK_COAGULATION,HALLMARK_IL2_STAT5_SIGNALING,HALLMARK_ALLOGRAFT_REJECTION,HALLMARK_KRAS_SIGNALING_UP,HALLMARK_KRAS_SIGNALING_DN,B.cells.naive.CIBERSORT,B.cells.memory.CIBERSORT,Plasma.cells.CIBERSORT,T.cells.CD8.CIBERSORT,T.cells.CD4.naive.CIBERSORT,T.cells.CD4.memory.resting.CIBERSORT,T.cells.CD4.memory.activated.CIBERSORT,T.cells.follicular.helper.CIBERSORT,T.cells.regulatory..Tregs..CIBERSORT,T.cells.gamma.delta.CIBERSORT,NK.cells.resting.CIBERSORT,NK.cells.activated.CIBERSORT,Monocytes.CIBERSORT,Macrophages.M0.CIBERSORT,Macrophages.M1.CIBERSORT,Macrophages.M2.CIBERSORT,Dendritic.cells.resting.CIBERSORT,Dendritic.cells.activated.CIBERSORT,Mast.cells.resting.CIBERSORT,Mast.cells.activated.CIBERSORT,Eosinophils.CIBERSORT,Neutrophils.CIBERSORT,P.value.CIBERSORT,Pearson.Correlation.CIBERSORT,RMSE.CIBERSORT,Absolute.score.CIBERSORT,B.cells.CIBERSORT,CD4.cells.CIBERSORT,NK.cells.CIBERSORT,Mast.cells.CIBERSORT,Dendritic.cells.CIBERSORT,CD14_positive_monocyte.immunostates,CD16_positive_monocyte.immunostates,CD4_positive_alpha_beta_T_cell.immunostates,CD56bright_natural_killer_cell.immunostates,CD56dim_natural_killer_cell.immunostates,CD8_positive_alpha_beta_T_cell.immunostates,MAST_cell.immunostates,basophil.immunostates,eosinophil.immunostates,gamma_delta_T_cell.immunostates,hematopoietic_progenitor.immunostates,macrophage_m0.immunostates,macrophage_m1.immunostates,macrophage_m2.immunostates,memory_B_cell.immunostates,myeloid_dendritic_cell.immunostates,naive_B_cell.immunostates,neutrophil.immunostates,plasma_cell.immunostates,plasmacytoid_dendritic_cell.immunostates,P.value.immunostates,Correlation.immunostates,RMSE.immunostates,NEUROD2,PPP1R1B,STARD3,PERLD1,ERBB2,C17orf37,GRB7,RARA,TOP2A"
+    },
+    {
+      "check": "nine_r_values",
+      "pass": true,
+      "detail": "rows=9"
+    },
+    {
+      "check": "bound_formula",
+      "pass": true,
+      "detail": "max(16,r-17) <= s <= min(21,r-14)"
+    },
+    {
+      "check": "all_integer_pairs_conserve_totals",
+      "pass": true,
+      "detail": "pairs=24"
+    },
+    {
+      "check": "global_raw_pcr_min",
+      "pass": true,
+      "detail": "observed=0.484848484848"
+    },
+    {
+      "check": "global_raw_pcr_max",
+      "pass": true,
+      "detail": "observed=0.600000000000"
+    },
+    {
+      "check": "three_arm_rows",
+      "pass": true,
+      "detail": "rows=3"
+    },
+    {
+      "check": "arm3_unresolved",
+      "pass": true,
+      "detail": "NO_AT_PARTICIPANT_LEVEL"
+    },
+    {
+      "check": "ten_objects",
+      "pass": true,
+      "detail": "rows=10"
+    },
+    {
+      "check": "objects_excluded_verified_denominator",
+      "pass": true,
+      "detail": "all ten"
+    },
+    {
+      "check": "no_pseudo_model",
+      "pass": true,
+      "detail": "False"
+    },
+    {
+      "check": "simulation_cancelled",
+      "pass": true,
+      "detail": "CANCELLED_NO_INCREMENTAL_IDENTIFICATION_VALUE"
+    },
+    {
+      "check": "submission_hold",
+      "pass": true,
+      "detail": "ACCEPT_V4_S3_DESIGN_LEVEL_PARTIAL_IDENTIFIABILITY__TRIO_ARM3_PHASE_NOT_RECOVERED__NO_CORRECTED_RANDOMIZED_INTERACTION__READY_FOR_V4_S4_SUPPORTIVE_RESULT_TRIAGE_AND_FIGURE_SOURCE_FREEZE__HOLD_SUBMISSION"
+    }
+  ]
+}

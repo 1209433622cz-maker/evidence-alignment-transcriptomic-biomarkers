@@ -1,0 +1,31 @@
+{
+  "status": "READY_FOR_V4_S2_EXECUTION",
+  "input_sha256": "7d561840758f9a7ea2e897c05789f0414255f008698fc538add1219d9083d707",
+  "rows_349": 349,
+  "idh1_wt_339": 339,
+  "excluded_unique_rows": 6,
+  "a2_n": 333,
+  "a2_events": 260,
+  "literal_na_counts_by_covariate": {
+    "age": 0,
+    "corticosteroids": 1,
+    "surgical_status": 2,
+    "sex": 0,
+    "kps": 0,
+    "mgmt_status": 0,
+    "mmse": 3,
+    "rpa_class": 2,
+    "who": 2
+  },
+  "mgmt_missing_category_rows_retained": 68,
+  "patient_identifiers_exported": false,
+  "model_fitted": false,
+  "effect_estimates_generated": false,
+  "diagnostic_plan": {
+    "convergence": "must converge without fatal error; all interaction estimates finite",
+    "proportional_hazards": "Schoenfeld residual tests for interaction and global model; rank transform; alpha 0.05 descriptive only",
+    "influence": "interaction DFBETA flag |DFBETA| > 2/sqrt(n) and list top five absolute values; no automatic deletion",
+    "reporting": "n, events, beta, HR, 95% CI, P, PH diagnostics, influence flags, software and hashes for both classifiers"
+  },
+  "important_definition_note": "The frozen 333-row set excludes six IDH1-WT rows containing literal 'NA' in at least one source-listed covariate; the deposited MGMT 'Missing' category is retained. This is a version-specific source-covariate availability rule, not a universal complete-case definition."
+}

@@ -1,0 +1,7 @@
+fidelity_class	label	executable_on_target_data	exact_original_function	platform_bridge_allowed	inexact_reconstruction_allowed	minimum_evidence	interpretation_boundary
+F0	EXACT_EXECUTABLE_ORIGINAL	TRUE	TRUE	FALSE	FALSE	All features, weights, normalization, aggregation, orientation and cutpoint match; numerical equivalence checked when reference output exists	Does not establish clinical validity
+F1	PRESPECIFIED_PLATFORM_BRIDGED_EXACT_FUNCTION	TRUE	TRUE	TRUE	FALSE	Outcome-blind complete platform mapping preserves function and patient ranking/classification	Report bridge explicitly; not the literal original platform
+F2	SOURCE_COMPATIBLE_APPROXIMATION	TRUE	FALSE	TRUE	TRUE	Auditable source-compatible rule with every divergence and missing component documented	Cannot be interpreted as an exact test of the original assay
+F3	PARTIAL_OR_MISSING_COMPONENT	FALSE	FALSE	FALSE	FALSE	Some biomarker information exists but claim-defining components remain missing	Evaluability limitation; not biological failure
+F4	NONEXECUTABLE	FALSE	FALSE	FALSE	FALSE	No lawful auditable implementation can be produced	Evaluability limitation; not biological failure
+

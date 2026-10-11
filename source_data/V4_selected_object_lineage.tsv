@@ -1,0 +1,23 @@
+claim_estimand_id	legacy_claim_id	context	signature	present_in_28row_inventory	in_frozen_22_object_set	local_numeric_object	publication_year	historical_primary_source	selection_basis	selection_changed_after_results
+CE_HER2_01_U1	HER2_01	HER2_DUAL_BLOCKADE	ESR1_DESMEDT	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_02_U1	HER2_02	HER2_DUAL_BLOCKADE	ERBB2_DESMEDT_UP	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_03_U1	HER2_03	HER2_DUAL_BLOCKADE	PAM50_PROLIF	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_04_U1	HER2_04	HER2_DUAL_BLOCKADE	Immune_ESTIMATE	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_05_U1	HER2_05	HER2_DUAL_BLOCKADE	GEPARSIXTO_IMMUNE	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_06_U1	HER2_06	HER2_DUAL_BLOCKADE	Teff-high	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_07_U1	HER2_07	HER2_DUAL_BLOCKADE	N9831_IMMUNE	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_08_U1	HER2_08	HER2_DUAL_BLOCKADE	Stromal_ESTIMATE	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_09_U1	HER2_09	HER2_DUAL_BLOCKADE	Stromal_FARMER	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_HER2_10_U1	HER2_10	HER2_DUAL_BLOCKADE	Stromal_DESMEDT	TRUE	TRUE	TRUE	2020	PMCID:PMC7673127	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_TNBC_01_U1	TNBC_01	TNBC_PLATINUM	IGG14	TRUE	TRUE	TRUE	2024	PMCID:PMC10924177	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_TNBC_03_U1	TNBC_03	TNBC_PARP_IO	revisedPARPi7_FFPE	TRUE	TRUE	TRUE	2021	PMCID:PMC11064785	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_TNBC_04_U2	TNBC_04	TNBC_PARP_PLATINUM	CIN70	TRUE	TRUE	TRUE	2017	PMCID:PMC5572474	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_RCC_01_U2	RCC_01	RCC_IO_ANTI_VEGF	IMmotion_Angio6	TRUE	TRUE	FALSE	2018	PMCID:PMC6721896	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_RCC_02_U2	RCC_02	RCC_IO_ANTI_VEGF	IMmotion_Teff5	TRUE	TRUE	FALSE	2018	PMCID:PMC6721896	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_RCC_03_U2	RCC_03	RCC_IO_ANTI_VEGF	IMmotion_Myeloid6	TRUE	TRUE	FALSE	2018	PMCID:PMC6721896	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_RCC_04_U1	RCC_04	RCC_IO_TKI	JAVELIN_Renal_101_Immuno26	TRUE	TRUE	FALSE	2019	PMID:32472114	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_RCC_05_U1	RCC_05	RCC_IO_TKI	Tumor_Inflammation_Signature18	TRUE	TRUE	FALSE	2019	PMID:32472114	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_GBM_01_U2	GBM_01	GBM_BEVACIZUMAB	Phillips_proneural35	TRUE	TRUE	TRUE	2015	PMCID:PMC5015426	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_GBM_02_U2	GBM_02	GBM_BEVACIZUMAB	Verhaak_proneural	TRUE	TRUE	TRUE	2015	PMCID:PMC5015426	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_RT_01_U2	RT_01	PAN_CANCER_RADIOTHERAPY	RSI_GARD10	TRUE	TRUE	FALSE	2021	DOI:10.1016/S1470-2045(21)00347-8	purposefully selected legacy project object; retained unchanged for V4	FALSE
+CE_BCI_01_U2	BCI_01	BREAST_EXTENDED_ENDOCRINE	BCI_HI2	TRUE	TRUE	FALSE	2013	PMCID:PMC3888138	purposefully selected legacy project object; retained unchanged for V4	FALSE

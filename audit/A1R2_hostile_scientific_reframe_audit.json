@@ -1,0 +1,8 @@
+{
+  "phase": "R5B_A1R2",
+  "checks": 27,
+  "passed": 27,
+  "failed": 0,
+  "overall_pass": true,
+  "machine_gate": "A1R2_MACHINE_REFRAME_AND_EFFECT_SCALE_PASS__READY_FOR_FRESH_A1H_SIGNOFF__NO_GO_FINAL_SEARCH__HOLD_SUBMISSION"
+}

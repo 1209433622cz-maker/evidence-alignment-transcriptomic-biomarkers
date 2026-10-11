@@ -1,0 +1,9 @@
+dimension	TRIO	AVAglio
+core_correction	Participant-level allocation phase cannot be recovered for Arm 3	Source rules support population and model reconstruction
+historical_analysis	Arm 1 n=31 versus Arm 3 n=50; ten historical interactions	Historical A0 n=349 models
+source_information	Design identifies Arms 1/2 as randomized; Arm 3 mixed	IDH1 exclusion, six literal-NA rows, prespecified covariates
+new_numeric_analysis	Not authorized without participant-level phase mapping	A2 executed for Phillips and Verhaak
+change_type	Inferential eligibility changed; historical numbers retained	Population/model specification changed numerical estimates
+current_role	Historical/exploratory computation; not verified randomized interaction	Same-trial model-specification sensitivity
+independent_validation	Not established	Not an independent external validation
+next_use	Evidence-boundary case in Figures 1/2/4	Quantitative case in Figures 1/3

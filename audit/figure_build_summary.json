@@ -1,0 +1,28 @@
+{
+  "phase": "R5B_A1R2",
+  "figures": 6,
+  "rendered_files": 19,
+  "main_architecture_only": [
+    "Figure1",
+    "Figure2",
+    "Figure3"
+  ],
+  "main_data_bearing": [
+    "Figure4",
+    "Figure5"
+  ],
+  "supplement_data_bearing": [
+    "FigureS5"
+  ],
+  "outer_counts_fabricated": false,
+  "global_minimum_font_points": 7.0,
+  "vector_pdf_svg_generated": true,
+  "libreoffice_used": false,
+  "input_hashes": {
+    "table2": "86d0ca52b237e59d2d8aaccfefb14295a6207158dc76ac7174f09545815502ac",
+    "cross_trial": "440837950fe2acb5b2ceb3ad87ad812cb3d658c6f28721a704ba2fa91a3fe573",
+    "binary_absolute": "cb3829631b2e164b70c12c5a3a2a14b6af15401b196c296004ed97946c562bab",
+    "gbm_absolute": "b9892d09b8b05494bfd5e7334aebb5064f98c0b36c95da1b65547babdfb36819"
+  },
+  "output_manifest_sha256": "d59dd988069e6dcba1d5283cc5332696c39fafc457baa2672a882c7a4d389d8e"
+}

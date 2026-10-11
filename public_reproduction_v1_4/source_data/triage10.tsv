@@ -1,0 +1,11 @@
+module_id	module	units	unit_type	main_text_role	supplement_role	new_statistics	source	decision
+M01	22 claim-estimand objects	22	claim_estimand_id	Figure2 and Table1	complete evidence matrix	NO	V4_S4_22object_evidence_integration.tsv	RETAIN_CORE
+M02	TRIO historical interactions	10	model rows	TRIO inference-qualification case	full historical estimates	NO	Table2_local_IPD_primary_interactions_27rows.tsv	RETAIN_HISTORICAL_BOUNDARY
+M03	CHER-LOB within-trial interactions	10	model rows	supporting statement only	full estimates	NO	Table2_local_IPD_primary_interactions_27rows.tsv	RETAIN_SUPPORTING
+M04	AVAglio A0-A4 ladder	10	model-specification rows	Figure3 quantitative case	full diagnostics and coefficients	A2_ALREADY_COMPLETED	V4_S4_AVAglio_A0_A4_current_derived.tsv	RETAIN_CORE_NO_EXPANSION
+M05	GLARIUS estimates	2	model rows	medium-transportability qualifier	full estimates	NO	Table2_local_IPD_primary_interactions_27rows.tsv	RETAIN_SUPPORTING
+M06	BrighTNess models	2	model rows	source/coding boundary	full estimates	NO	Table2_local_IPD_primary_interactions_27rows.tsv	RETAIN_SUPPORTING
+M07	I-SPY2 DOP model	1	model rows	implementation/source-cohort boundary	full estimate	NO	Table2_local_IPD_primary_interactions_27rows.tsv	RETAIN_SUPPORTING
+M08	binary absolute-effect sensitivity	23	model rows	scale-dependence summary	complete forest/table	NO	binary_absolute_effect_23models.tsv	RETAIN_SUPPLEMENTARY
+M09	historical cross-trial replay	13	historical units in 3 clusters	Figure4 eligibility explanation	complete reclassification	NO	V4_S4_cross_trial_historical_vs_current.tsv	RETAIN_WITH_DUAL_STATUS
+M10	source-audit-only objects	7	claim-estimand objects	evidence-type contrasts	source and implementation audit	NO	V4_S4_22object_evidence_integration.tsv	RETAIN_NO_PSEUDO_MODEL

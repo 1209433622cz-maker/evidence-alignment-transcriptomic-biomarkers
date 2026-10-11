@@ -1,0 +1,212 @@
+{
+  "status": "PASS",
+  "checks_passed": 17,
+  "checks_total": 17,
+  "checks": [
+    {
+      "name": "input_sha256",
+      "pass": true,
+      "detail": "7d561840758f9a7ea2e897c05789f0414255f008698fc538add1219d9083d707"
+    },
+    {
+      "name": "primary_model_identity",
+      "pass": true,
+      "detail": [
+        [
+          "GBM_01",
+          "Phillips_proneural35"
+        ],
+        [
+          "GBM_02",
+          "Verhaak_proneural"
+        ]
+      ]
+    },
+    {
+      "name": "primary_row_event_contract",
+      "pass": true,
+      "detail": [
+        [
+          "GBM_01",
+          333,
+          260
+        ],
+        [
+          "GBM_02",
+          333,
+          260
+        ]
+      ]
+    },
+    {
+      "name": "primary_estimability",
+      "pass": true,
+      "detail": [
+        [
+          "GBM_01",
+          3,
+          true
+        ],
+        [
+          "GBM_02",
+          3,
+          true
+        ]
+      ]
+    },
+    {
+      "name": "primary_finite",
+      "pass": true,
+      "detail": [
+        "interaction_beta",
+        "interaction_se",
+        "interaction_hr",
+        "ci95_low",
+        "ci95_high",
+        "interaction_p"
+      ]
+    },
+    {
+      "name": "four_cell_counts",
+      "pass": true,
+      "detail": [
+        {
+          "claim_id": "GBM_01",
+          "rows": 4,
+          "n": 333,
+          "events": 260
+        },
+        {
+          "claim_id": "GBM_02",
+          "rows": 4,
+          "n": 333,
+          "events": 260
+        }
+      ]
+    },
+    {
+      "name": "independent_R_numeric_reproduction",
+      "pass": true,
+      "detail": {
+        "interaction_beta": 5.707579964209231e-10,
+        "interaction_se": 8.218981051300034e-12,
+        "interaction_hr": 2.9271496337912595e-10,
+        "ci95_low": 1.642120328604335e-10,
+        "ci95_high": 5.233480315780525e-10,
+        "interaction_p": 1.0102689865232328e-10,
+        "log_likelihood": 2.380147634539753e-09
+      }
+    },
+    {
+      "name": "R_schoenfeld_terms_and_global",
+      "pass": true,
+      "detail": {
+        "GBM_01": [
+          "marker",
+          "treatment_binary",
+          "interaction",
+          "GLOBAL"
+        ],
+        "GBM_02": [
+          "marker",
+          "treatment_binary",
+          "interaction",
+          "GLOBAL"
+        ]
+      }
+    },
+    {
+      "name": "dfbetas_threshold",
+      "pass": true,
+      "detail": 0.1095993248702382
+    },
+    {
+      "name": "influence_terms",
+      "pass": true,
+      "detail": [
+        [
+          "GBM_01",
+          "marker"
+        ],
+        [
+          "GBM_01",
+          "treatment_binary"
+        ],
+        [
+          "GBM_01",
+          "interaction"
+        ],
+        [
+          "GBM_02",
+          "marker"
+        ],
+        [
+          "GBM_02",
+          "treatment_binary"
+        ],
+        [
+          "GBM_02",
+          "interaction"
+        ]
+      ]
+    },
+    {
+      "name": "model_ladder_identity",
+      "pass": true,
+      "detail": 10
+    },
+    {
+      "name": "historical_registry_unchanged",
+      "pass": true,
+      "detail": [
+        "n",
+        "events",
+        "interaction_hr",
+        "ci95_low",
+        "ci95_high",
+        "interaction_p"
+      ]
+    },
+    {
+      "name": "A2_registry_materialized",
+      "pass": true,
+      "detail": [
+        [
+          "GBM_01",
+          "EXECUTED_V4_S2"
+        ],
+        [
+          "GBM_02",
+          "EXECUTED_V4_S2"
+        ]
+      ]
+    },
+    {
+      "name": "ladder_deltas_complete",
+      "pass": true,
+      "detail": 8
+    },
+    {
+      "name": "figure_formats",
+      "pass": true,
+      "detail": {
+        ".png": 203198,
+        ".pdf": 47588,
+        ".svg": 27574
+      }
+    },
+    {
+      "name": "restricted_influence_files_present",
+      "pass": true,
+      "detail": [
+        "V4_S2_A2_top5_influential_records_lifelines_RESTRICTED.tsv",
+        "V4_S2_A2_top5_influential_records_R_RESTRICTED.tsv"
+      ]
+    },
+    {
+      "name": "no_sample_identifiers_in_public_outputs",
+      "pass": true,
+      "detail": []
+    }
+  ]
+}

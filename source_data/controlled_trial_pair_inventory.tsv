@@ -1,0 +1,11 @@
+pair_id	context	discovery_trial	discovery_access	validation_trial	validation_access	treatment_estimand	endpoint_alignment	same_estimand_grade	unique_public_or_controlled_trials	publicly_executable_pair	replication_context_eligible	status
+PAIR_01	HER2_DUAL_BLOCKADE	TRIO-US B07/GSE130786	PUBLIC	CHER-LOB/GSE66305	PUBLIC	trastuzumab+lapatinib+chemotherapy vs trastuzumab+chemotherapy	pCR aligned with documented caveats	HIGH	2	TRUE	TRUE	COMPLETED_R3B
+PAIR_02	GBM_BEVACIZUMAB	AVAglio/GSE84010	PUBLIC	GLARIUS/GSE150612	PUBLIC	first-line bevacizumab-containing regimen vs non-bevacizumab control	OS and PFS both available; backbone/population differ	MEDIUM	2	TRUE	TRUE	READY_FOR_R4B_REPRODUCTION
+PAIR_03	TNBC_PLATINUM	CALGB40603/phs001979	CONTROLLED	BrighTNess/GSE164458	PUBLIC	addition of carboplatin to taxane-anthracycline neoadjuvant backbone	pCR aligned	HIGH	2	FALSE	TRUE	PUBLISHED_INTERACTION_AVAILABLE
+PAIR_04	TNBC_PARP_PLATINUM	I-SPY2/GSE194040	PUBLIC	BrighTNess/GSE164458	PUBLIC	veliparib+carboplatin package vs control; BrighTNess also separates veliparib from carboplatin	pCR aligned; package estimand differs	MEDIUM	2	TRUE	TRUE	READY_NEAR_ESTIMAND
+PAIR_05	RCC_IO_ANTI_VEGF	IMmotion150	ACCOUNT_OR_REQUEST	IMmotion151	SPONSOR_CONTROLLED	atezolizumab+bevacizumab vs sunitinib	PFS aligned	HIGH	2	FALSE	TRUE	AGGREGATE_ONLY_UNTIL_ACCESS
+PAIR_06	OVARIAN_BEVACIZUMAB	ICON7	CONTROLLED_NOT_PUBLIC	GOG-0218	NCI_CONTROLLED	chemotherapy+bevacizumab maintenance vs chemotherapy/placebo	PFS high; dose/population differ	MEDIUM_HIGH	2	FALSE	TRUE	CLAIM_LEVEL_DATA_REQUEST_NEEDED
+PAIR_07	BREAST_EXTENDED_ENDOCRINE	MA.17	ASSAY_AND_TRIAL_REQUEST	Trans-aTTom	ASSAY_AND_TRIAL_REQUEST	extended endocrine therapy vs stop/placebo after 5 years	recurrence endpoints near; letrozole vs tamoxifen differ	MEDIUM	2	FALSE	TRUE	PUBLISHED_INTERACTION_ONLY
+PAIR_08	BREAST_ADJUVANT_CHEMO	NSABP B20	ASSAY_AND_TRIAL_REQUEST	SWOG-8814	ASSAY_AND_TRIAL_REQUEST	chemotherapy+endocrine vs endocrine alone	distant recurrence/DFS near; nodal populations differ	MEDIUM	2	FALSE	TRUE	PUBLISHED_INTERACTION_ONLY
+PAIR_09	PAN_CANCER_RADIOTHERAPY	GARD pooled cohorts	MIXED_PUBLIC	independent RSI/GARD cohorts	MIXED_PUBLIC	radiotherapy vs none or dose contrast	mixed recurrence and OS	LOW_TO_MEDIUM	11	FALSE	FALSE	DIRECT_COMPETITOR_NOT_REPLICATION_CORE
+

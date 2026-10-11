@@ -1,0 +1,7 @@
+claim_id	signature	implementation	term	n	dfbetas_threshold_2_over_sqrt_n	max_abs_dfbeta	max_abs_dfbetas	count_abs_dfbetas_above_threshold
+GBM_01	Phillips_proneural35	lifelines_delta_beta_divided_by_model_se	marker	333	0.10959932487	0.0207558882906	0.115259684203	1
+GBM_01	Phillips_proneural35	lifelines_delta_beta_divided_by_model_se	treatment_binary	333	0.10959932487	0.0128039031434	0.0860881499626	0
+GBM_01	Phillips_proneural35	lifelines_delta_beta_divided_by_model_se	interaction	333	0.10959932487	0.0198861801412	0.0715496038365	0
+GBM_02	Verhaak_proneural	lifelines_delta_beta_divided_by_model_se	marker	333	0.10959932487	0.0228490688995	0.123659638604	3
+GBM_02	Verhaak_proneural	lifelines_delta_beta_divided_by_model_se	treatment_binary	333	0.10959932487	0.0116900827404	0.0795593325182	0
+GBM_02	Verhaak_proneural	lifelines_delta_beta_divided_by_model_se	interaction	333	0.10959932487	0.0210231310213	0.0747275872938	0

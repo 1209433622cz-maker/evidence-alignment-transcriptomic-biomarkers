@@ -1,0 +1,28 @@
+{
+  "validator": "independent_read_only_v1",
+  "checks": {
+    "baseline_hashes_recomputed": true,
+    "baseline_mutation_disallowed": true,
+    "roles_complete_unique": true,
+    "role_counts": true,
+    "no_label_mutation": true,
+    "lineage_fixed": true,
+    "local_objects_15": true,
+    "models_2_by_5": true,
+    "a2_two_empty_rows": true,
+    "a2_frozen_n_events": true,
+    "only_a2_unexecuted": true,
+    "preflight_14_pass": true,
+    "a2_rule_independently_rebuilt": true,
+    "a2_events_independently_rebuilt": true,
+    "mgmt_missing_retained": true,
+    "workbook_present": true,
+    "workbook_all_pass": true,
+    "reports_394_to_400_present": true,
+    "restricted_raw_not_copied": true
+  },
+  "pass_count": 19,
+  "total_checks": 19,
+  "failures": [],
+  "decision": "ACCEPT_V4_S0S1"
+}

@@ -1,0 +1,23 @@
+{
+  "phase": "R5B_A1R2",
+  "validator": "independent_scipy_point_and_persisted_bootstrap_recalculation",
+  "models_checked": 23,
+  "model_rows_passed": 23,
+  "q_rows_checked": 23,
+  "q_rows_passed": 23,
+  "input_hashes_checked": 10,
+  "input_hashes_passed": 10,
+  "claim_checks": {
+    "one_nominal_additive": true,
+    "zero_robust_additive": true,
+    "zero_nominal_multiplicative": true,
+    "all_sign_concordant": true,
+    "all_primary_labels_unchanged": true,
+    "no_sensitivity_promotion": true,
+    "exact_five_families": true,
+    "warn_is_cherlob_esr1": true,
+    "nominal_is_trio_stromal_farmer": true,
+    "cherlob_geparsixto_not_nominal": true
+  },
+  "overall_pass": true
+}

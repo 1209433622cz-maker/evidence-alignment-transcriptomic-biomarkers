@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "source": "tables/Supplementary_Table_S1_AVAglio_A0_A4_10rows.tsv",
+      "csv": "supplementary_csv/Additional_file_1_AVAglio_A0_A4.csv",
+      "data_rows": 10,
+      "columns": 20,
+      "all_parsed_cells_equal": true,
+      "source_sha256": "96344ec2710a6c4eb628efda4c3c0124db0282146dd62c1471d5cf57014fd445",
+      "csv_sha256": "780924711af70b382d7801f86c937a5e2ba06c2ff4b5cc2321102ff4d5c80bf9",
+      "interpretation": "Delimiter/quoting only; no number parsing, rounding, missing-value recoding or formula authoring"
+    },
+    {
+      "source": "tables/Supplementary_Table_S2_cross_trial_historical_current_13rows.tsv",
+      "csv": "supplementary_csv/Additional_file_2_cross_trial_eligibility.csv",
+      "data_rows": 13,
+      "columns": 14,
+      "all_parsed_cells_equal": true,
+      "source_sha256": "10fb0087b84358fded840253f495d2a43e14e702a1b8aeece8dbbf45cce03512",
+      "csv_sha256": "7091a77b2e1a433a195e6ebb9d5e9dc7ed276c1c87e4e5c70296e2723183d203",
+      "interpretation": "Delimiter/quoting only; no number parsing, rounding, missing-value recoding or formula authoring"
+    },
+    {
+      "source": "tables/Supplementary_Table_S3_absolute_effect_current_role_23rows.tsv",
+      "csv": "supplementary_csv/Additional_file_3_absolute_effect_sensitivity.csv",
+      "data_rows": 23,
+      "columns": 53,
+      "all_parsed_cells_equal": true,
+      "source_sha256": "95530df94c01d87f59b62d2642316b933e2cfd747b4d7c9a9cfd556fe2763c5f",
+      "csv_sha256": "e3c0d237d3b9cade4d9a7878285b2b0672bffca0e6d36147d7f7e7bc342f63ce",
+      "interpretation": "Delimiter/quoting only; no number parsing, rounding, missing-value recoding or formula authoring"
+    }
+  ]
+}

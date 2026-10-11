@@ -1,0 +1,15 @@
+check_id	criterion	pass	evidence
+P01	Raw input is frozen	PASS	Expected Q2-R3 SHA-256
+P02	Expression-evaluable row count	PASS	observed=349
+P03	IDH1-WT row count	PASS	observed=339
+P04	Fixed literal-NA exclusion count	PASS	observed=6
+P05	A2 row count	PASS	observed=333
+P06	A2 event count	PASS	observed=260
+P07	Both treatment arms retained	PASS	{'Placebo': 171, 'Bevacizumab': 162}
+P08	Both Phillips classes retained	PASS	binary marker derivable
+P09	Both Verhaak classes retained	PASS	binary marker derivable
+P10	OS duration and event complete	PASS	time in months; event 1, censor 0
+P11	A2 model fixed to A0 formula	PASS	duration + event + marker + treatment + marker×treatment; no covariates
+P12	A2 output cells remain empty	PASS	enforced in model registry and QA
+P13	Diagnostics frozen before execution	PASS	convergence; finite estimates; Schoenfeld PH; interaction DFBETA |x|>2/sqrt(n) plus top five
+P14	No outcome-driven extension	PASS	all results reported; no sample/covariate substitution after viewing result

@@ -1,0 +1,9 @@
+evidence_dimension	available	resolution	supports_assignment_phase	note
+public_participant_id	YES	ROW_LEVEL	NO	Public identifier is a linkage key, not a certified enrollment-order field.
+geo_accession_and_title	YES	ROW_LEVEL	NO	Links samples but provides no authoritative phase label.
+treatment_arm	YES	ROW_LEVEL	PARTIAL_BY_DESIGN	Arms 1 and 2 imply randomized allocation; Arm 3 can contain both phases.
+pCR_outcome	YES	ROW_LEVEL	NO	Outcome must not be used to infer allocation phase.
+signature_scores	YES	ROW_LEVEL	NO	Marker values must not be used to infer allocation phase.
+raw_assignment_phase_field	NO	NONE	NO	Absent from author repository files at commit 45a574e.
+author_verified_phase_mapping	NO	NONE	NO	No de-identified authoritative row-level mapping was present in frozen evidence.
+trial_design_phase_evidence	YES	ARM_LEVEL	PARTIAL_BY_DESIGN	First 20 were directly assigned to Arm 3; subsequent participants were randomized among three arms.

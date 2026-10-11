@@ -1,0 +1,9 @@
+claim_id	signature	implementation	term	chisq	df	p
+GBM_01	Phillips_proneural35	R_survival_cox_zph_rank	marker	2.18404380319922	1	0.139447643770419
+GBM_01	Phillips_proneural35	R_survival_cox_zph_rank	treatment_binary	1.80219442275276	1	0.179447426109212
+GBM_01	Phillips_proneural35	R_survival_cox_zph_rank	interaction	0.409527544761697	1	0.52220940240466
+GBM_01	Phillips_proneural35	R_survival_cox_zph_rank	GLOBAL	3.74496551825568	3	0.290352787833591
+GBM_02	Verhaak_proneural	R_survival_cox_zph_rank	marker	3.20526501928091	1	0.0734016160900299
+GBM_02	Verhaak_proneural	R_survival_cox_zph_rank	treatment_binary	1.02244507527073	1	0.31193973172079
+GBM_02	Verhaak_proneural	R_survival_cox_zph_rank	interaction	1.43598566847791	1	0.230790052785601
+GBM_02	Verhaak_proneural	R_survival_cox_zph_rank	GLOBAL	4.54464183758466	3	0.208342735034986

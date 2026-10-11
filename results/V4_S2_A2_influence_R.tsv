@@ -1,0 +1,7 @@
+claim_id	signature	implementation	term	n	dfbetas_threshold_2_over_sqrt_n	max_abs_dfbeta	max_abs_dfbetas	count_abs_dfbetas_above_threshold
+GBM_01	Phillips_proneural35	R_survival_residuals	marker	333	0.109599324870238	0.0570519849661044	0.316815820083135	18
+GBM_01	Phillips_proneural35	R_survival_residuals	treatment_binary	333	0.109599324870238	0.0234661427676934	0.15777664006081	21
+GBM_01	Phillips_proneural35	R_survival_residuals	interaction	333	0.109599324870238	0.0596263058865597	0.21453283305967	24
+GBM_02	Verhaak_proneural	R_survival_residuals	marker	333	0.109599324870238	0.0773584793985875	0.418665707832438	6
+GBM_02	Verhaak_proneural	R_survival_residuals	treatment_binary	333	0.109599324870238	0.0207013755080399	0.140887592866668	18
+GBM_02	Verhaak_proneural	R_survival_residuals	interaction	333	0.109599324870238	0.0785821855113329	0.279323623175758	22

@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-11",
+  "trigger": "independent R comparison after the first frozen-model fit",
+  "first_primary_result_sha256": "eaf4c9f6c0ab2c83b10bfc77cc67777b850d7d9fc155c64e88ec415b84fbbf3d",
+  "first_validation": {
+    "status": "FAIL",
+    "checks_passed": 16,
+    "checks_total": 17,
+    "maximum_beta_difference_vs_R": 0.000052613068758033954,
+    "maximum_log_likelihood_difference_vs_R": 0.00000005238007361185737
+  },
+  "scientific_model_changed": false,
+  "patient_set_changed": false,
+  "estimand_changed": false,
+  "tie_method_changed": false,
+  "refinement": "lifelines Newton-Raphson precision=1e-12, r_precision=1e-12, max_steps=1000",
+  "primary_script_pre_refinement_sha256": "733190d3deafa22273cb1061bc4073036c8d0a95e3a798de776ac57df52b80b1",
+  "primary_script_post_refinement_sha256": "8dec4ed57cbee6ea65cfe9f8ed347b9b3a169f0a4f344b544f5fa3897ab08ca8",
+  "primary_script_post_refinement_bytes": 22508,
+  "rule": "rerun both frozen A2 models and all dependent public outputs; retain this audit record"
+}

@@ -1,0 +1,33 @@
+{
+  "stage": "V4_S0_S1_BASELINE_FREEZE_CLAIM_ROLE_TRANSITION_AND_AVAGLIO_A2_PREFLIGHT",
+  "date": "2026-10-11",
+  "checks": {
+    "manifest_18_rows": true,
+    "all_frozen_inputs_exist": true,
+    "role_22_rows": true,
+    "role_unique_ids": true,
+    "role_no_required_blanks": true,
+    "allowed_roles_only": true,
+    "primary_labels_not_mutated": true,
+    "her2_10_population_unverified": true,
+    "gbm_2_targeted": true,
+    "lineage_22_rows": true,
+    "local_objects_15": true,
+    "model_registry_10_rows": true,
+    "exactly_two_a2_rows": true,
+    "a2_not_executed": true,
+    "a2_effects_blank": true,
+    "a2_n_events_frozen": true,
+    "preflight_all_pass": true,
+    "no_model_fit_preflight": true,
+    "historical_counts_preserved": true,
+    "trio_all_unknown": true,
+    "trio_no_corrected_release": true
+  },
+  "pass_count": 21,
+  "total_checks": 21,
+  "failures": [],
+  "decision_token": "READY_FOR_V4_S2_TARGETED_AVAGLIO_A2_EXECUTION__TRIO_IDENTITY_BRANCH_REMAINS_EVIDENCE_GOVERNED__HOLD_SUBMISSION",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0"
+}

@@ -1,0 +1,9 @@
+claim_id	signature	treatment_binary	marker	n	events	treatment_label	marker_label
+GBM_01	Phillips_proneural35	0	0	113	84	Placebo	Non-proneural
+GBM_01	Phillips_proneural35	0	1	58	49	Placebo	Proneural
+GBM_01	Phillips_proneural35	1	0	121	98	Bevacizumab	Non-proneural
+GBM_01	Phillips_proneural35	1	1	41	29	Bevacizumab	Proneural
+GBM_02	Verhaak_proneural	0	0	120	88	Placebo	Non-proneural
+GBM_02	Verhaak_proneural	0	1	51	45	Placebo	Proneural
+GBM_02	Verhaak_proneural	1	0	124	98	Bevacizumab	Non-proneural
+GBM_02	Verhaak_proneural	1	1	38	29	Bevacizumab	Proneural

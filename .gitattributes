@@ -1,0 +1,16 @@
+# Frozen aggregate sources must retain exact LF bytes on Windows and Linux.
+* text=auto
+*.tsv text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.svg text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.png -text
+*.jpg -text
+*.pdf -text
+*.gz -text
+# These eleven inputs have a historical raw-byte contract, including mixed EOLs.
+public_reproduction_v1_4/source_data/* -text -eol

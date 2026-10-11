@@ -1,0 +1,21 @@
+{
+  "stage": "V4_S6H1_AUTHOR_APPROVAL_BINDING",
+  "date": "2026-10-11",
+  "validation": "32/32 PASS",
+  "user_decisions_bound": 7,
+  "truth_value_categories_open": 11,
+  "abstract_words": 334,
+  "candidate_docx_sha256": "f0be030544abf6cd7ea775d23cff5329d63fc8a4a302e7ad9e265b3d78b629f6",
+  "wps_version": "12.0",
+  "wps_pages": 17,
+  "wps_visual_qa": "PASS",
+  "libreoffice_used": false,
+  "conditional_first_journal": "BMC Medical Research Methodology",
+  "candidate_article_type": "Research Article",
+  "article_type_enquiry_approved_in_principle": true,
+  "article_type_enquiry_sent": false,
+  "new_statistical_refit": false,
+  "github_synced": false,
+  "submission": "HOLD",
+  "gate": "ACCEPT_V4_S6H1_USER_DECISION_BINDING__HOLD_UNSUPPLIED_TRUTH_VALUES__READY_FOR_V4_S6H2_REAL_TRUTH_FIELD_COMPLETION__HOLD_GITHUB_SYNC__HOLD_EXTERNAL_TRANSMISSION__HOLD_SUBMISSION"
+}
