@@ -29,6 +29,8 @@ Snapshot excludes only this run's newly generated inventory, backup, public stag
 
 Inspection coverage: 5,997 complete text/structure reads; 216 container CRC/structure checks; 60 gzip stream checks; 429 PDF all-page text extractions; 1,195 raster decode checks; 60,360 runtime/Git byte-hash-only records; 176 other byte-hash-only records; 9 separately labelled zero-byte records. These categories describe machine inspection, not manual interpretation of every paper/image/dependency. No parser issue is not proof that every scientific result is correct.
 
+The supplementary inspection of those 176 initially opaque records parsed 59 JSON-lines files, fully read 45 extra text records and streamed all 16 file members of two TAR archives. Seventy unsupported/binary records remain hash-only. This extension had no exceptions and did not overwrite the dated snapshot or execute/extract archived source code. A private reuse index covers 1,939 manuscript, reference, governance and work-record assets with size, hash, content-structure summary and reuse boundary; its automated priorities are triage, not new scientific verdicts.
+
 ## Valuable assets and their owner
 
 The research contribution is the distinction between reproducing an estimate and defending the interpretation attached to it. The central chain is original claim, evidence design, implementation, population and estimand. Current source-role tables and manuscript support that chain; internal workflow complexity is not itself a result.
@@ -49,5 +51,7 @@ Private exclusions include participant/sample data, individual influence and res
 ## Honest completion boundary
 
 The full local inventory, candidate assembly and publication preparation are distinct from deletion/recreation, push, fresh-remote readback and hosted CI. The external release receipt should document those events when they actually succeed. No new clinical claim, no new author fact and no journal submission is created by this release.
+
+Actual first-publication verification: the recreated public repository has ID **1414689827**, replacing old ID **1412172637**. The first new-history commit is `19fd894297dae7a03ab8713042a4c0cb2214ab35`. Its clean remote clone passed **23/23** checks and a **177-row manifest**; all eleven raw aggregate inputs passed their hash contract, four regenerated PNGs had identical SHA-256 hashes, and three CSVs matched the promoted fields. [GitHub hosted validation](https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers/actions/runs/38167299325) completed successfully for that commit. Subsequent documentation commits have their own manifest and workflow; this first-publication commit is not a self-referential promise of the final HEAD.
 
 Next scientific milestone: complete the existing eleven real factual categories; rebuild only affected documents; run WPS-only full-page QA; then obtain the corresponding author's explicit portal-upload authorization. Do not reopen topic selection, grow the cohort set or run sensitivities without a concrete new input or defect.

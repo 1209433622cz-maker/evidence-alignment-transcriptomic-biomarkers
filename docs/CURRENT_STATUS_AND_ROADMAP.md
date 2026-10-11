@@ -4,7 +4,7 @@ Status date: 2026-10-12
 
 Active plan: RPv4
 
-Public synchronization: current v1.4 / completed S8B assets, with S9 private-workspace audit summary
+Public synchronization: current v1.4 / completed S8B assets, with S9 history and the RebuildAudit private-workspace aggregate summary. The old repository was backed up, deleted and recreated publicly on 12 October 2026; the first fresh-history payload passed remote clone validation, exact four-figure reconstruction and hosted CI. See `REBUILD_AUDIT_AND_REUSABLE_ASSETS_20261012.md`.
 
 Submission: HOLD
 
@@ -22,6 +22,9 @@ Submission: HOLD
 - lossless S1–S3 CSV derivatives and frozen aggregate figure-reproduction inputs;
 - local 67,098-file migration/size/content audit with legacy path compatibility and zero hash mismatches;
 - public aggregate-only GitHub synchronization after path, identity, licence and redistribution review.
+- RebuildAudit: 120,875 physical paths / 68,442 file identities / 43,187 content hashes, with full hashes, supported-format content checks and no read/parse/CRC exceptions;
+- 1,939 private manuscript, source, work-record and provenance reuse-index entries; the full path inventory remains excluded from publication;
+- independent private recovery bundle for the deleted repository and retained original checkout; no old full Git history imported into the new public repository.
 
 ## Binding scientific boundaries
 
