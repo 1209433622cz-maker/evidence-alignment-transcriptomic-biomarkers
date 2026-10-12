@@ -4,6 +4,8 @@
 *.csv text eol=lf
 *.json text eol=lf
 *.py text eol=lf
+*.R text eol=lf
+*.r text eol=lf
 *.md text eol=lf
 *.svg text eol=lf
 *.yml text eol=lf
@@ -18,3 +20,7 @@ public_reproduction_v1_4/source_data/* -text -eol
 1_data/aggregate/frozen_v1.5/* -text -eol
 # Editable published SVGs retain their figure raw-byte hash contracts too.
 4_figures/**/current_v1.5/*.svg -text -eol
+# RPv5 reviewed sources and figure contracts also retain their original bytes.
+1_data/aggregate/reviewed_v1.6/* -text -eol
+4_figures/**/current_v1.6/*.svg -text -eol
+*.docx -text

@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "MANIFEST_SHA256.tsv"
-EXCLUDED_DIRS = {".git", "__pycache__", ".pytest_cache", ".venv", "node_modules", "generated_v1_5"}
+EXCLUDED_DIRS = {".git", "__pycache__", ".pytest_cache", ".venv", "node_modules", "generated_v1_5", "generated_rpv5"}
 TEXT_SUFFIXES = {
     ".cff",
     ".csv",
@@ -18,6 +18,7 @@ TEXT_SUFFIXES = {
     ".md",
     ".ps1",
     ".py",
+    ".r",
     ".svg",
     ".tsv",
     ".txt",

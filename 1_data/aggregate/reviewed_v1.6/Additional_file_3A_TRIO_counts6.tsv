@@ -1,0 +1,7 @@
+scope	arm_or_component	n	pcr	phase_evidence	source
+Public linkage	Arm 1	31	15	DESIGN_IDENTIFIED_RANDOMIZED	Frozen public linkage and trial-design audit
+Public linkage	Arm 2	29	7	DESIGN_IDENTIFIED_RANDOMIZED	Frozen public linkage and trial-design audit
+Public linkage	Arm 3	50	25	NO_AT_PARTICIPANT_LEVEL	Frozen public linkage and trial-design audit
+Original report	Combined arm total	58	30	MIXED_PHASE	Hurvitz et al. 2020; DOI 10.1038/s41467-020-19494-2
+Original report	Direct-assignment component	20	9	REPORTED_DIRECT_ASSIGNMENT	Hurvitz et al. 2020; DOI 10.1038/s41467-020-19494-2
+Original report	Randomized component	38	21	REPORTED_RANDOMIZED_COMPONENT	Hurvitz et al. 2020; DOI 10.1038/s41467-020-19494-2

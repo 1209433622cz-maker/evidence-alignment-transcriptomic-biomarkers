@@ -14,3 +14,5 @@ jobs:
           python-version: "3.12"
       - name: Validate integrity, aggregate-only boundary, and frozen results
         run: python 2_code/validate_public_release.py
+      - name: Validate current RPv5 resource and truthful declarations
+        run: python 2_code/validate_rpv5_release.py

@@ -1,0 +1,10 @@
+# Direct packages actually used in the tested Windows Python 3.13.7 run.
+# This is an exact direct-dependency snapshot, not a complete transitive lock.
+numpy==2.3.3
+pandas==2.3.3
+scipy==1.16.2
+statsmodels==0.14.6
+lifelines==0.30.3
+matplotlib==3.10.7
+Pillow==12.3.0
+pypdf==6.4.1

@@ -1,0 +1,15 @@
+{
+  "title": "Evidence alignment of oncology transcriptomic biomarkers: RPv5 code and aggregate evidence",
+  "version": "1.6.2",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {"name": "Chen, Zhi", "orcid": "0009-0001-0072-5576", "affiliation": "School of Medicine, The Chinese University of Hong Kong, Shenzhen, China"},
+    {"name": "Qi, Teng", "orcid": "0009-0007-7648-4776", "affiliation": "School of Medicine, The Chinese University of Hong Kong, Shenzhen, China"}
+  ],
+  "description": "<p>Versioned software and aggregate-evidence companion for a finite retrospective empirical methods study. The resource preserves 22 fixed claim-estimand objects, 27 historical primary models, 23 absolute-effect sensitivities and 13 dependent historical cross-trial units. Current strict replication proportion is not estimable. AVAglio illustrates source-defined same-trial reanalysis; TRIO illustrates inference restricted by unresolved individual allocation phase. Neither establishes independent validation of a general-purpose tool or a field-wide failure rate.</p><p>Source code is MIT licensed. Original documentation, figures, manuscript drafts and derived aggregate tables are CC BY 4.0 under LICENSE-DATA.md; the software record's primary MIT licence does not relicense these components or third-party inputs. Raw participant data, linkage identifiers, third-party full texts, credentials and environments are excluded. Historical AI tool/model details were not fully recorded; known current Codex assistance is disclosed. This record is not an accepted journal article or a completed journal submission.</p>",
+  "keywords": ["transcriptomic biomarkers", "provenance", "estimand alignment", "reproducibility", "empirical research methodology"],
+  "related_identifiers": [{"identifier": "https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers", "relation": "isSupplementTo"}]
+}

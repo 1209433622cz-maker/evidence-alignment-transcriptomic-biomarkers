@@ -1,0 +1,201 @@
+{
+  "aggregate_files": [
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_1A_objects22.tsv",
+      "raw_sha256": "e983d219aa475c2ef7258dd782a67bdd22c88e14d6dbd2d39f2eacf323a23687",
+      "raw_bytes": 39792,
+      "rows": 22
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_1B_implementation27.tsv",
+      "raw_sha256": "ff6f4271aa301f99f7c6fd2a97af38df1c84107bfa1e5d1cb316829524deffc2",
+      "raw_bytes": 29679,
+      "rows": 27
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_1C_source_only7.tsv",
+      "raw_sha256": "d53a740968cf0dceefe86c23c983f90e1fbe8256fd674ef543ba63ec4b102acc",
+      "raw_bytes": 11539,
+      "rows": 7
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_2A_AVAglio10.tsv",
+      "raw_sha256": "c19934320e5e493680a4674b26b99614f3d86bc6efd1033531f4cfa3495e9623",
+      "raw_bytes": 6752,
+      "rows": 10
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_2B_AVA_recipe8.tsv",
+      "raw_sha256": "6842298e56594c4956f030a67f48aa084ba59f03a3426dc6f496698a3a18949e",
+      "raw_bytes": 2642,
+      "rows": 8
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_3A_TRIO_counts6.tsv",
+      "raw_sha256": "498e98b912056cd99aa1877b31b31d4b337579e25e9fcdac496169edbea782aa",
+      "raw_bytes": 706,
+      "rows": 6
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_3B_TRIO_bounds9.tsv",
+      "raw_sha256": "d030ad258844b352126b7b44baaec585adf1de42962bab1fa75c3ac207adf947",
+      "raw_bytes": 1240,
+      "rows": 9
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_3C_TRIO_states24.tsv",
+      "raw_sha256": "8ff0c3f8cf9c6c206f249885e5df73c08664742ec317231788d10c6ace7a8337",
+      "raw_bytes": 578,
+      "rows": 24
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_4A_primary27.tsv",
+      "raw_sha256": "86d0ca52b237e59d2d8aaccfefb14295a6207158dc76ac7174f09545815502ac",
+      "raw_bytes": 11249,
+      "rows": 27
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_4B_cross13.tsv",
+      "raw_sha256": "10fb0087b84358fded840253f495d2a43e14e702a1b8aeece8dbbf45cce03512",
+      "raw_bytes": 5233,
+      "rows": 13
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_4C_absolute23.tsv",
+      "raw_sha256": "5b5594fb06d04bfdba5ed9832ec17021217f7f749af54f155a4d987a63b7c479",
+      "raw_bytes": 27633,
+      "rows": 23
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_4D_clause_support12.tsv",
+      "raw_sha256": "a224946ee2c5c0f2eec706c01219707fa776ea9e8b6115946da32294e2dd2815",
+      "raw_bytes": 6098,
+      "rows": 12
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_5A_chronology.md",
+      "raw_sha256": "0b40f64c7315376fad0aa101db7ebcf51b5b8e644d1000b9f46451e4dba27888",
+      "raw_bytes": 3860,
+      "rows": null
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/Additional_file_5B_assertion22.tsv",
+      "raw_sha256": "c9e97b56ce2a08b6527ae2910fd4a637390038aca672d3b7c5751136e0933665",
+      "raw_bytes": 13994,
+      "rows": 22
+    },
+    {
+      "relative_path": "1_data/aggregate/reviewed_v1.6/figure2_source22_v1.6.tsv",
+      "raw_sha256": "f42592fb3dd59797264c16f4d725bff042319205abc7df093ebc10552869c88b",
+      "raw_bytes": 12463,
+      "rows": 22
+    }
+  ],
+  "figure_files": [
+    {
+      "relative_path": "4_figures/Fig1/current_v1.6/Figure1_finite_units_and_correction_paths.pdf",
+      "raw_sha256": "24d47bc3f0d9560c9f8189fd26aa5f95a62067b2c5cc0af7105fe1a843143d75",
+      "raw_bytes": 47093
+    },
+    {
+      "relative_path": "4_figures/Fig1/current_v1.6/Figure1_finite_units_and_correction_paths.png",
+      "raw_sha256": "8e01a3c8b646b6285fac0473c1312101668587c18941e577c75458dfa7af20cd",
+      "raw_bytes": 401783
+    },
+    {
+      "relative_path": "4_figures/Fig1/current_v1.6/Figure1_finite_units_and_correction_paths.svg",
+      "raw_sha256": "1cac239d27ccd12ee54fd2d4dc71156280fbd8a5d09d6613b966d1391946c21e",
+      "raw_bytes": 7492
+    },
+    {
+      "relative_path": "4_figures/Fig2/current_v1.6/Figure2_source_and_trial_provenance.pdf",
+      "raw_sha256": "11207da77700f17a6d6859bf1d8daaa5c0223e1c63e3195a30e26e5cb29c47be",
+      "raw_bytes": 56616
+    },
+    {
+      "relative_path": "4_figures/Fig2/current_v1.6/Figure2_source_and_trial_provenance.svg",
+      "raw_sha256": "ec28284be4cf80800553c035bc123b09cf5d998f55e9aa64587bbda162d5b165",
+      "raw_bytes": 45227
+    },
+    {
+      "relative_path": "4_figures/Fig2/current_v1.6/Figure2_source_and_trial_provenance.png",
+      "raw_sha256": "757979ce65b95c9fc42492731544fced4507686d8def2cd2ca4f8ecf70564ba3",
+      "raw_bytes": 1046735
+    },
+    {
+      "relative_path": "4_figures/Fig3/current_v1.6/Figure3_AVAglio_shared_population_model_ladder.pdf",
+      "raw_sha256": "157e6bd49a3ee56c128a70c70bdcc74492e46bef7e4092373d6f0fa953d0109f",
+      "raw_bytes": 45062
+    },
+    {
+      "relative_path": "4_figures/Fig3/current_v1.6/Figure3_AVAglio_shared_population_model_ladder.png",
+      "raw_sha256": "92eb403de01a6283dd77a5a4cdc78258d58cc4e86c805a9ecc6505c6e0680fc2",
+      "raw_bytes": 336820
+    },
+    {
+      "relative_path": "4_figures/Fig3/current_v1.6/Figure3_AVAglio_shared_population_model_ladder.svg",
+      "raw_sha256": "6b939ff488dae1e1c11f37878afd3afc70c5a717835d68c18abb6ee823b6d583",
+      "raw_bytes": 28811
+    },
+    {
+      "relative_path": "4_figures/Fig4/current_v1.6/Figure4_TRIO_partial_identifiability.pdf",
+      "raw_sha256": "8fdf75d83e4cb824be0fc574e088abdeca03d5286aa293ee29d100068d95ebe3",
+      "raw_bytes": 43902
+    },
+    {
+      "relative_path": "4_figures/Fig4/current_v1.6/Figure4_TRIO_partial_identifiability.svg",
+      "raw_sha256": "7030d28e0946b0d640102ea67049ce69c665687742dcc651b9be69af641df459",
+      "raw_bytes": 19705
+    },
+    {
+      "relative_path": "4_figures/Fig4/current_v1.6/Figure4_TRIO_partial_identifiability.png",
+      "raw_sha256": "79666e49b659c369d202afb0c88c3c324b3f82b8dc808b8066b45ac666619981",
+      "raw_bytes": 384947
+    },
+    {
+      "relative_path": "4_figures/Fig5/current_v1.6/FigureS1_cross_trial_eligibility.pdf",
+      "raw_sha256": "e0364fd58ec32802f2ef0e248aea209684b3fec75aaf59b36e3cd6ec7f72942a",
+      "raw_bytes": 43744
+    },
+    {
+      "relative_path": "4_figures/Fig5/current_v1.6/FigureS1_cross_trial_eligibility.png",
+      "raw_sha256": "dbebf657f0395e6dac89996933c3ba22893d384fed979c63b75fec815f2e73b1",
+      "raw_bytes": 249516
+    },
+    {
+      "relative_path": "4_figures/Fig5/current_v1.6/FigureS1_cross_trial_eligibility.svg",
+      "raw_sha256": "1666bf5a28b9fa9de3ee5879e8518af33ac7ef7ad2ad0a2e98e601d6f01738f7",
+      "raw_bytes": 4980
+    },
+    {
+      "relative_path": "4_figures/Fig6/current_v1.6/FigureS2_all23_absolute_effect_sensitivities.pdf",
+      "raw_sha256": "3ea17cec8caaf019cea37cc8c6708d6b64334275ca8f181f2975b361dfc17405",
+      "raw_bytes": 54164
+    },
+    {
+      "relative_path": "4_figures/Fig6/current_v1.6/FigureS2_all23_absolute_effect_sensitivities.svg",
+      "raw_sha256": "4b3f4534e9c3d198d1c2023ec1d113efd2ab84df7cb3cef4ae3f97269c184c36",
+      "raw_bytes": 52932
+    },
+    {
+      "relative_path": "4_figures/Fig6/current_v1.6/FigureS2_all23_absolute_effect_sensitivities.png",
+      "raw_sha256": "d54086069873dfaaed64013a36ae2f5b09ee4b1923c72f79d17194ccad0ecae3",
+      "raw_bytes": 861845
+    },
+    {
+      "relative_path": "4_figures/Fig7/current_v1.6/FigureS3_all27_historical_primary_estimates.pdf",
+      "raw_sha256": "571c0c0e66c11e33c39e543bdea375b543637dfeb4930ed54edd6ecec5555994",
+      "raw_bytes": 55071
+    },
+    {
+      "relative_path": "4_figures/Fig7/current_v1.6/FigureS3_all27_historical_primary_estimates.svg",
+      "raw_sha256": "d429120907624632f80aedeac384866679ddc03a4782034856087684b88ddfe1",
+      "raw_bytes": 53398
+    },
+    {
+      "relative_path": "4_figures/Fig7/current_v1.6/FigureS3_all27_historical_primary_estimates.png",
+      "raw_sha256": "68c7efd4a8d2dd290a37be8455802f210128307ca5269d02a1a3aa6b25e15f61",
+      "raw_bytes": 826819
+    }
+  ]
+}

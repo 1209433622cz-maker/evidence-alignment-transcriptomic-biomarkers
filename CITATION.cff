@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Please cite this versioned research resource. It is not an accepted journal article."
+type: software
+title: "Evidence alignment of oncology transcriptomic biomarkers RPv5 code and aggregate evidence"
+version: 1.6.2
+date-released: 2026-10-13
+url: "https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers"
+repository-code: "https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers"
+authors:
+  - family-names: Chen
+    given-names: Zhi
+    affiliation: "School of Medicine, The Chinese University of Hong Kong, Shenzhen, China"
+    orcid: "https://orcid.org/0009-0001-0072-5576"
+  - family-names: Qi
+    given-names: Teng
+    affiliation: "School of Medicine, The Chinese University of Hong Kong, Shenzhen, China"
+    orcid: "https://orcid.org/0009-0007-7648-4776"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - transcriptomic biomarkers
+  - provenance
+  - estimand alignment
+  - reproducibility
+  - empirical research methodology
+abstract: >-
+  A finite retrospective empirical methods research resource linking 22
+  claim-estimand objects, 27 historical primary models and 23 absolute-effect
+  sensitivities to implementation provenance and current inferential limits.
+  Recoverable AVAglio rules and information-limited TRIO allocation identity are
+  complementary cases, not independent validation of a general-purpose tool.
+  Restricted participant-level inputs are not redistributed. Component licence
+  scope is defined in LICENSE, LICENSE-DATA.md and LICENSING.md.

@@ -12,7 +12,7 @@ from urllib.parse import unquote
 ROOT=Path(__file__).resolve().parents[1]
 ARCH=ROOT/'8_archive/legacy_public_snapshot_v1.4'
 MANIFEST=ROOT/'MANIFEST_SHA256.tsv'
-EXCLUDE={'.git','__pycache__','.pytest_cache','.venv','node_modules','generated_v1_5'}
+EXCLUDE={'.git','__pycache__','.pytest_cache','.venv','node_modules','generated_v1_5','generated_rpv5'}
 TEXT={'.cff','.csv','.json','.md','.ps1','.py','.r','.svg','.tsv','.txt','.yaml','.yml'}
 TEXT_NAMES={'.gitignore','.gitattributes','LICENSE'}
 SECRET=re.compile(r'\b(?:gh[opusr]_[A-Za-z0-9_]{20,}|github_pat_[A-Za-z0-9_]{20,}|AKIA[A-Z0-9]{16})\b')
@@ -61,8 +61,9 @@ add('no_local_absolute_paths',not path_hits,path_hits)
 add('no_embedded_credentials',not secret_hits,secret_hits)
 add('no_participant_identifier_columns',not header_hits,header_hits)
 restricted_names={'GSE84010_sample_characteristics.tsv','V4_S2_A2_top5_influential_records_R_RESTRICTED.tsv','V4_S2_A2_top5_influential_records_lifelines_RESTRICTED.tsv'}
-restricted=[p.relative_to(ROOT).as_posix() for p in allfiles if p.name in restricted_names or p.suffix.lower()=='.docx']
-add('private_inputs_and_author_documents_absent',not restricted,restricted)
+approved_docs={'5_manuscript/current_v1.6.2/QiTeng_RPv5_manuscript_v1.6.2.docx','5_manuscript/current_v1.6.2/QiTeng_RPv5_supplement_v1.6.2.docx'}
+restricted=[p.relative_to(ROOT).as_posix() for p in allfiles if p.name in restricted_names or (p.suffix.lower()=='.docx' and p.relative_to(ROOT).as_posix() not in approved_docs)]
+add('private_inputs_and_unapproved_author_documents_absent',not restricted,restricted)
 contract=json.loads((ROOT/'0_admin/audit/source_hash_contract_v1.5.json').read_text(encoding='utf-8'))
 bad=[n for n,r in contract.items() if not (ROOT/r['relative_path']).is_file() or sha(ROOT/r['relative_path'])!=r['raw_sha256'] or (ROOT/r['relative_path']).stat().st_size!=r['raw_bytes']]
 add('16_frozen_aggregate_raw_byte_contracts',len(contract)==16 and not bad,bad)
@@ -127,7 +128,9 @@ for p in allfiles:
     for link in re.findall(r'\[[^\]]+\]\(([^\n\)]+)\)',text):
         target=unquote(link.strip('<> ').split('#')[0])
         if not target or re.match(r'^(?:https?|mailto):',target):continue
-        if not (p.parent/target).exists():broken.append(p.relative_to(ROOT).as_posix()+':'+target)
+        # A byte-preserved old root README has its original root-relative base.
+        base=ROOT if p==ROOT/'8_archive/README_snapshot_v1.5.md' else p.parent
+        if not (base/target).exists():broken.append(p.relative_to(ROOT).as_posix()+':'+target)
 add('active_Markdown_links_and_images_resolve',not broken,broken[:25])
 published_recipe=ROOT/'2_code/reproduce_v1_5.py'
 tree=ast.parse(published_recipe.read_text(encoding='utf-8'))

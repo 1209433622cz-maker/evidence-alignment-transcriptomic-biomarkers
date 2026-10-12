@@ -1,0 +1,362 @@
+{
+  "GBM_01::A0": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction"
+    ],
+    "n_parameters": 3,
+    "rank": 3,
+    "condition_number": 3.4428099226795603,
+    "category_encoding": {},
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "fa26fa15b233ebe85cc3089ee160d60cd3a53c32a15dcc22cb21f820a6ef4274",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 139,
+      "Proneural": 112,
+      "Proliferative": 58,
+      "Unclassified": 40
+    },
+    "outcome": "OS months; death=1"
+  },
+  "GBM_01::A1": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction"
+    ],
+    "n_parameters": 3,
+    "rank": 3,
+    "condition_number": 3.465336078168607,
+    "category_encoding": {},
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "3ef66266390815fe20b073474d45a2193f916a237a515795ac1d44117f865ac5",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 139,
+      "Proneural": 103,
+      "Proliferative": 58,
+      "Unclassified": 39
+    },
+    "outcome": "OS months; death=1"
+  },
+  "GBM_01::A2": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction"
+    ],
+    "n_parameters": 3,
+    "rank": 3,
+    "condition_number": 3.4310048466027077,
+    "category_encoding": {},
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "a76058b18da8e09276b6afae8770069f113b35d6d5bfd67369c6a882e12796ce",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 138,
+      "Proneural": 99,
+      "Proliferative": 57,
+      "Unclassified": 39
+    },
+    "outcome": "OS months; death=1"
+  },
+  "GBM_01::A3": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction",
+      "age",
+      "corticosteroids_On",
+      "surgical_status_Complete resection",
+      "surgical_status_Partial resection",
+      "sex_Male",
+      "kps_90-100",
+      "mgmt_status_Missing",
+      "mgmt_status_Non-methylated",
+      "mmse_>=27",
+      "rpa_class_Grade IV",
+      "rpa_class_Grade V",
+      "who_1",
+      "who_2"
+    ],
+    "n_parameters": 16,
+    "rank": 16,
+    "condition_number": 448.5209218794697,
+    "category_encoding": {
+      "corticosteroids": {
+        "levels_lexicographic": [
+          "Off",
+          "On"
+        ],
+        "reference": "Off"
+      },
+      "surgical_status": {
+        "levels_lexicographic": [
+          "Biopsy",
+          "Complete resection",
+          "Partial resection"
+        ],
+        "reference": "Biopsy"
+      },
+      "sex": {
+        "levels_lexicographic": [
+          "Female",
+          "Male"
+        ],
+        "reference": "Female"
+      },
+      "kps": {
+        "levels_lexicographic": [
+          "50-80",
+          "90-100"
+        ],
+        "reference": "50-80"
+      },
+      "mgmt_status": {
+        "levels_lexicographic": [
+          "Methylated",
+          "Missing",
+          "Non-methylated"
+        ],
+        "reference": "Methylated"
+      },
+      "mmse": {
+        "levels_lexicographic": [
+          "<27",
+          ">=27"
+        ],
+        "reference": "<27"
+      },
+      "rpa_class": {
+        "levels_lexicographic": [
+          "Grade III",
+          "Grade IV",
+          "Grade V"
+        ],
+        "reference": "Grade III"
+      },
+      "who": {
+        "levels_lexicographic": [
+          "0",
+          "1",
+          "2"
+        ],
+        "reference": "0"
+      }
+    },
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "a76058b18da8e09276b6afae8770069f113b35d6d5bfd67369c6a882e12796ce",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 138,
+      "Proneural": 99,
+      "Proliferative": 57,
+      "Unclassified": 39
+    },
+    "outcome": "OS months; death=1"
+  },
+  "GBM_02::A0": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction"
+    ],
+    "n_parameters": 3,
+    "rank": 3,
+    "condition_number": 3.515904179426906,
+    "category_encoding": {},
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "fa26fa15b233ebe85cc3089ee160d60cd3a53c32a15dcc22cb21f820a6ef4274",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 127,
+      "Proneural": 102,
+      "Classical": 81,
+      "Unclassified": 23,
+      "Neural": 16
+    },
+    "outcome": "OS months; death=1"
+  },
+  "GBM_02::A1": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction"
+    ],
+    "n_parameters": 3,
+    "rank": 3,
+    "condition_number": 3.5558034309172397,
+    "category_encoding": {},
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "3ef66266390815fe20b073474d45a2193f916a237a515795ac1d44117f865ac5",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 127,
+      "Proneural": 93,
+      "Classical": 81,
+      "Unclassified": 22,
+      "Neural": 16
+    },
+    "outcome": "OS months; death=1"
+  },
+  "GBM_02::A2": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction"
+    ],
+    "n_parameters": 3,
+    "rank": 3,
+    "condition_number": 3.5232003611045664,
+    "category_encoding": {},
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "a76058b18da8e09276b6afae8770069f113b35d6d5bfd67369c6a882e12796ce",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 127,
+      "Proneural": 89,
+      "Classical": 80,
+      "Unclassified": 22,
+      "Neural": 15
+    },
+    "outcome": "OS months; death=1"
+  },
+  "GBM_02::A3": {
+    "columns": [
+      "marker",
+      "treatment",
+      "interaction",
+      "age",
+      "corticosteroids_On",
+      "surgical_status_Complete resection",
+      "surgical_status_Partial resection",
+      "sex_Male",
+      "kps_90-100",
+      "mgmt_status_Missing",
+      "mgmt_status_Non-methylated",
+      "mmse_>=27",
+      "rpa_class_Grade IV",
+      "rpa_class_Grade V",
+      "who_1",
+      "who_2"
+    ],
+    "n_parameters": 16,
+    "rank": 16,
+    "condition_number": 445.5847128478628,
+    "category_encoding": {
+      "corticosteroids": {
+        "levels_lexicographic": [
+          "Off",
+          "On"
+        ],
+        "reference": "Off"
+      },
+      "surgical_status": {
+        "levels_lexicographic": [
+          "Biopsy",
+          "Complete resection",
+          "Partial resection"
+        ],
+        "reference": "Biopsy"
+      },
+      "sex": {
+        "levels_lexicographic": [
+          "Female",
+          "Male"
+        ],
+        "reference": "Female"
+      },
+      "kps": {
+        "levels_lexicographic": [
+          "50-80",
+          "90-100"
+        ],
+        "reference": "50-80"
+      },
+      "mgmt_status": {
+        "levels_lexicographic": [
+          "Methylated",
+          "Missing",
+          "Non-methylated"
+        ],
+        "reference": "Methylated"
+      },
+      "mmse": {
+        "levels_lexicographic": [
+          "<27",
+          ">=27"
+        ],
+        "reference": "<27"
+      },
+      "rpa_class": {
+        "levels_lexicographic": [
+          "Grade III",
+          "Grade IV",
+          "Grade V"
+        ],
+        "reference": "Grade III"
+      },
+      "who": {
+        "levels_lexicographic": [
+          "0",
+          "1",
+          "2"
+        ],
+        "reference": "0"
+      }
+    },
+    "constant_dummy_columns_removed": [],
+    "membership_sha256": "a76058b18da8e09276b6afae8770069f113b35d6d5bfd67369c6a882e12796ce",
+    "ties": "Efron",
+    "penalizer": 0.0,
+    "T1": "Bevacizumab",
+    "T0": "Placebo",
+    "M1": "Proneural deposited label",
+    "M0": "All other deposited labels including Unclassified (frozen local coding)",
+    "deposited_label_counts": {
+      "Mesenchymal": 127,
+      "Proneural": 89,
+      "Classical": 80,
+      "Unclassified": 22,
+      "Neural": 15
+    },
+    "outcome": "OS months; death=1"
+  }
+}
