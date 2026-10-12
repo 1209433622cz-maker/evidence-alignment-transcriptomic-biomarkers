@@ -2,7 +2,9 @@
 
 [![Validate public release](https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers/actions/workflows/validate.yml/badge.svg)](https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers/actions/workflows/validate.yml)
 
-Current research resource: **RPv5 / v1.6.2-rpv5, 13 October 2026**. Four main figures, three supplementary figures, editable manuscripts and WPS-produced PDFs. This is an open code-and-aggregate-evidence resource with a manuscript candidate, **not an accepted journal article or a submission-readiness certification**. Individual author contributions must be recorded truthfully before journal submission. Zenodo publication is requested; no DOI is asserted before a published record is verified.
+Current research resource: **RPv5 / v1.6.2-rpv5, 13 October 2026 (Hong Kong)**. Four main figures, three supplementary figures, editable manuscripts and WPS-produced PDFs. This is an open code-and-aggregate-evidence resource with a manuscript candidate, **not an accepted journal article or a submission-readiness certification**. Individual author contributions must be recorded truthfully before journal submission.
+
+**Published research-resource DOI:** [10.5281/zenodo.23325654](https://doi.org/10.5281/zenodo.23325654). [Zenodo version record](https://zenodo.org/records/23325654) · [GitHub release v1.6.2-rpv5](https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers/releases/tag/v1.6.2-rpv5). All-version concept DOI: [10.5281/zenodo.23325653](https://doi.org/10.5281/zenodo.23325653). Cite the version DOI when referring to the inspected files. Zenodo's UTC publication date is 12 October; the local Hong Kong release date is 13 October. This DOI identifies software and aggregate evidence, not a peer-reviewed article. [Archival linkage and snapshot boundary](6_release/v1.6.2_research_resource/ARCHIVAL_RECORD.md).
 
 本库是经过披露边界审查的公开资源，不是私人工作区的全盘镜像。RPv5 为当前有限范围回顾性实证方法学研究；RPv4、A1R2 及旧稿保留为历史版本，不再作为当前执行指令。
 

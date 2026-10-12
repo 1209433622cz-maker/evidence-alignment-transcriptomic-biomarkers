@@ -3,6 +3,7 @@ message: "Please cite this versioned research resource. It is not an accepted jo
 type: software
 title: "Evidence alignment of oncology transcriptomic biomarkers RPv5 code and aggregate evidence"
 version: 1.6.2
+doi: 10.5281/zenodo.23325654
 date-released: 2026-10-13
 url: "https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers"
 repository-code: "https://github.com/1209433622cz-maker/evidence-alignment-transcriptomic-biomarkers"
