@@ -1,0 +1,22 @@
+{
+  "stage": "V4_S4_SUPPORTIVE_RESULT_TRIAGE_AND_FIGURE_SOURCE_FREEZE",
+  "date": "2026-10-11",
+  "input_hashes_pass": true,
+  "historical_candidates": 28,
+  "objects": 22,
+  "local_numeric_objects": 15,
+  "historical_primary_models": 27,
+  "absolute_effect_models": 23,
+  "historical_cross_trial_units": 13,
+  "current_verified_strict_members": 0,
+  "current_strict_replication_proportion": "NOT_ESTIMABLE",
+  "avaglio_derived_rows": 10,
+  "trio_simulation": "CANCELLED_NO_INCREMENTAL_IDENTIFICATION_VALUE",
+  "new_statistical_refit": false,
+  "historical_files_mutated": false,
+  "figure_source_panels": 13,
+  "manuscript_claims_mapped": 10,
+  "github_synced": false,
+  "submission": "HOLD",
+  "gate": "ACCEPT_V4_S4_SOURCE_MATERIALIZATION_AND_VALIDATION__P0_VERSION_BOUNDARIES_CLOSED__NO_NEW_REFIT__READY_FOR_V4_S5_MANUSCRIPT_AND_FIGURE_REBUILD__HOLD_SUBMISSION"
+}

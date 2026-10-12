@@ -1,0 +1,25 @@
+﻿check	pass	detail
+row_counts	True	22 objects; 23 absolute rows; 10 AVAglio specifications; 13 cross units; 27 primary rows
+stable_object_ids_unique	True	No object reselection
+current_role_totals	True	"{""POPULATION_UNVERIFIED"": 10, ""ROLE_REFRAMED"": 7, ""NOT_CURRENTLY_EVALUABLE"": 2, ""TARGETED_REANALYSIS"": 2, ""IMPLEMENTATION_LIMITED"": 1}"
+no_current_strict_member	True	Empty eligibility set, proportion NOT_ESTIMABLE rather than 0%
+cross_dependency_counts	True	13 units in three clusters, not independent replications
+absolute_arithmetic	True	Difference in model-predicted risk differences checked; no refit
+risk_difference_arithmetic	True	Both marker quartiles checked for all 23 models
+predicted_probability_range	True	92 probabilities within [0,1]
+bootstrap_accounting	True	115000 requested historical resamples; not rerun
+bootstrap_interval_order	True	23 percentile intervals ordered
+primary_not_promoted	True	All frozen labels retained
+five_family_BH_arithmetic	True	BH arithmetic agrees, not a new proof of FDR calibration for a bootstrap sign-tail summary
+full_absolute_selection_not_p_hacking	True	All 23 rows retained; sole nominal result belongs to unverified TRIO set
+historical_primary_exp_beta	True	max absolute error 8.88e-16; original 27 models not refitted
+historical_primary_interval_transform	True	max absolute error 5.55e-17
+AVAglio_shared_population	True	A2/A3 share the fixed participant set
+historical_R_Python_A2_agreement	True	Read prior independent fits, max absolute HR/P difference 2.93e-10; R not rerun this round
+TRIO_independent_enumeration	True	24 conditional feasible integer states; aggregate pCR only, not an interaction bound
+uploaded_skill_crc_and_active_identity	True	"{""SKILL.md"": true, ""VERSION_REGISTRY.json"": true}"
+DOP_context_display_corrected	True	Legacy ID TNBC_03 unchanged; mixed HR+ / TNBC HER2-negative source population
+RCC04_conflict_not_silently_resolved	True	Original I2_RANDOMIZED_INTERACTION label conflicts with formal-interaction-not-located wording; retain both in table
+claim_polarity_explicit_mapping	True	Use-specific and mixed claims mapped by object, never by string separators
+frozen_inputs_unchanged	True	Every selected source and prior manuscript retains its pre-execution SHA-256
+no_text_outside_canvas	True	0 automatic text-canvas issues; manual overlap review still required

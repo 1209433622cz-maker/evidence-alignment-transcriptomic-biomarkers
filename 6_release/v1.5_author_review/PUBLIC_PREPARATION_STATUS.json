@@ -1,0 +1,11 @@
+{
+  "role": "PUBLIC_AUTHOR_REVIEW_NOT_JOURNAL_SUBMISSION",
+  "manuscript_version": "1.5",
+  "main_figures": 4,
+  "supplementary_figures": 3,
+  "real_author_placeholder_fields": 11,
+  "new_WPS_manuscript_render": false,
+  "journal_submission": false,
+  "restricted_participant_data": false,
+  "bulk_private_bundle_included": false
+}

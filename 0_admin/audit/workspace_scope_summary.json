@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-12",
+  "scope": "Same-day private workspace audit; public repository is a curated subset",
+  "physical_file_paths": 120875,
+  "file_identities": 68442,
+  "visual_file_identities": 2198,
+  "old_assemblies_expert_reviewed": 19,
+  "new_single_page_figure_pdfs_reviewed": 7,
+  "complete_expert_review_of_every_file_or_visual": false,
+  "private_path_inventory_published": false,
+  "no_model_refit_in_narrative_refinement": true
+}

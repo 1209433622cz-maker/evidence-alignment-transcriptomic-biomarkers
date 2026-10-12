@@ -1,0 +1,179 @@
+[
+  {
+    "figure": "Figure1_finite_units_and_correction_paths",
+    "pdf_sha256": "24d47bc3f0d9560c9f8189fd26aa5f95a62067b2c5cc0af7105fe1a843143d75",
+    "pdf_pages": 1,
+    "width_mm": 182.9999999999947,
+    "png_dimensions_pixels": [
+      4322,
+      2250
+    ],
+    "actual_pdf_raster_review": "7/7 one-page figures reviewed at 183 mm profile; final changes to Figure1/Figure3/FigureS1 also re-reviewed",
+    "observed_remaining_overlap_or_clipping": false,
+    "embedded_TrueType_fonts": [
+      {
+        "key": "/F2",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      },
+      {
+        "key": "/F1",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      }
+    ],
+    "docx_WPS_page_review": "NOT_EXECUTED",
+    "journal_acceptance_or_full_manuscript_pass": false
+  },
+  {
+    "figure": "Figure2_evidence_and_implementation_provenance",
+    "pdf_sha256": "afa8cfcc7ec1810184618fcffddbd1b5eb8caefa13b7202124976d32ae2f6b46",
+    "pdf_pages": 1,
+    "width_mm": 182.9999999999947,
+    "png_dimensions_pixels": [
+      4322,
+      4140
+    ],
+    "actual_pdf_raster_review": "7/7 one-page figures reviewed at 183 mm profile; final changes to Figure1/Figure3/FigureS1 also re-reviewed",
+    "observed_remaining_overlap_or_clipping": false,
+    "embedded_TrueType_fonts": [
+      {
+        "key": "/F1",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      }
+    ],
+    "docx_WPS_page_review": "NOT_EXECUTED",
+    "journal_acceptance_or_full_manuscript_pass": false
+  },
+  {
+    "figure": "Figure3_AVAglio_shared_population_model_ladder",
+    "pdf_sha256": "157e6bd49a3ee56c128a70c70bdcc74492e46bef7e4092373d6f0fa953d0109f",
+    "pdf_pages": 1,
+    "width_mm": 182.9999999999947,
+    "png_dimensions_pixels": [
+      4322,
+      3150
+    ],
+    "actual_pdf_raster_review": "7/7 one-page figures reviewed at 183 mm profile; final changes to Figure1/Figure3/FigureS1 also re-reviewed",
+    "observed_remaining_overlap_or_clipping": false,
+    "embedded_TrueType_fonts": [
+      {
+        "key": "/F2",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      },
+      {
+        "key": "/F1",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      }
+    ],
+    "docx_WPS_page_review": "NOT_EXECUTED",
+    "journal_acceptance_or_full_manuscript_pass": false
+  },
+  {
+    "figure": "Figure4_TRIO_partial_identifiability",
+    "pdf_sha256": "b9fbd54ec8917e76b77b92c26852b05c0830efd709ac353a3ac2d8fc89ffc84a",
+    "pdf_pages": 1,
+    "width_mm": 182.9999999999947,
+    "png_dimensions_pixels": [
+      4322,
+      2760
+    ],
+    "actual_pdf_raster_review": "7/7 one-page figures reviewed at 183 mm profile; final changes to Figure1/Figure3/FigureS1 also re-reviewed",
+    "observed_remaining_overlap_or_clipping": false,
+    "embedded_TrueType_fonts": [
+      {
+        "key": "/F1",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      },
+      {
+        "key": "/F2",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      }
+    ],
+    "docx_WPS_page_review": "NOT_EXECUTED",
+    "journal_acceptance_or_full_manuscript_pass": false
+  },
+  {
+    "figure": "FigureS1_cross_trial_eligibility",
+    "pdf_sha256": "e0364fd58ec32802f2ef0e248aea209684b3fec75aaf59b36e3cd6ec7f72942a",
+    "pdf_pages": 1,
+    "width_mm": 182.9999999999947,
+    "png_dimensions_pixels": [
+      4322,
+      2100
+    ],
+    "actual_pdf_raster_review": "7/7 one-page figures reviewed at 183 mm profile; final changes to Figure1/Figure3/FigureS1 also re-reviewed",
+    "observed_remaining_overlap_or_clipping": false,
+    "embedded_TrueType_fonts": [
+      {
+        "key": "/F2",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      },
+      {
+        "key": "/F1",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      }
+    ],
+    "docx_WPS_page_review": "NOT_EXECUTED",
+    "journal_acceptance_or_full_manuscript_pass": false
+  },
+  {
+    "figure": "FigureS2_all23_absolute_effect_sensitivities",
+    "pdf_sha256": "8b131f90b405fe053fd266234e51a4ad9c719ad5984ab897058d2fb37caaf706",
+    "pdf_pages": 1,
+    "width_mm": 182.9999999999947,
+    "png_dimensions_pixels": [
+      4322,
+      4320
+    ],
+    "actual_pdf_raster_review": "7/7 one-page figures reviewed at 183 mm profile; final changes to Figure1/Figure3/FigureS1 also re-reviewed",
+    "observed_remaining_overlap_or_clipping": false,
+    "embedded_TrueType_fonts": [
+      {
+        "key": "/F1",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      },
+      {
+        "key": "/F2",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      }
+    ],
+    "docx_WPS_page_review": "NOT_EXECUTED",
+    "journal_acceptance_or_full_manuscript_pass": false
+  },
+  {
+    "figure": "FigureS3_all27_historical_primary_estimates",
+    "pdf_sha256": "c8440cbde11c885aee6d4d32fc6f4f4fc67ae0e2e78b6ac102e8710dc6e45a2c",
+    "pdf_pages": 1,
+    "width_mm": 182.9999999999947,
+    "png_dimensions_pixels": [
+      4322,
+      4320
+    ],
+    "actual_pdf_raster_review": "7/7 one-page figures reviewed at 183 mm profile; final changes to Figure1/Figure3/FigureS1 also re-reviewed",
+    "observed_remaining_overlap_or_clipping": false,
+    "embedded_TrueType_fonts": [
+      {
+        "key": "/F1",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      },
+      {
+        "key": "/F2",
+        "subtype": "/Type0",
+        "embedded_TrueType": true
+      }
+    ],
+    "docx_WPS_page_review": "NOT_EXECUTED",
+    "journal_acceptance_or_full_manuscript_pass": false
+  }
+]

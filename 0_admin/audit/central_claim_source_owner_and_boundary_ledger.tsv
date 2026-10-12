@@ -1,0 +1,9 @@
+﻿claim	statement	source	owner	boundary
+C01	Finite 22-object study; not field prevalence	objects22.tsv	Fig1/Fig2/Table1	purposive resource-concentrated set; old analyses visible
+C02	Author scores / deposited labels are not independently executed assays	Table1_22objects_full_provenance_and_display_crosswalk.tsv	Fig2/Table1	historical grades and provenance kept orthogonal; no silent regrading
+C03	AVAglio same-set model adjustment accompanies a larger numerical move than the six-row restriction	avaglio10.tsv	Fig3/TableS1	descriptive model sensitivity; not causal attribution or independent replication
+C04	TRIO aggregate constraints do not recover biomarker interaction	TRIO_all_24_conditional_feasible_states.tsv	Fig4	conditional subset/pCR assumptions; no participant mapping and no interaction bound
+C05	Current strict replication proportion is not estimable	cross13.tsv	FigS1/TableS2	no eligible set; no new 0% denominator
+C06	All historical primary and absolute rows retained	primary27.tsv + absolute23.tsv	FigS2/FigS3	1 sign-tail nominal; 0 within-family robust; TRIO restricted; 1 conditional bootstrap interval
+C07	RCC04 source conflict remains unresolved	objects22.tsv	Fig2/Table1/Results	not-located evidence is not proof of no test
+C08	A dated, source-aware correction record is the contribution	RPv4 and source contracts	Background/Discussion/Conclusion	workflow inter-reviewer reliability and clinical utility not validated

@@ -1,0 +1,163 @@
+{
+  "role": "PUBLIC_AUTHOR_REVIEW_NOT_JOURNAL_SUBMISSION",
+  "files": [
+    {
+      "relative_path": "4_figures/Fig1/current_v1.5/Figure1_finite_units_and_correction_paths.pdf",
+      "canonical_bytes": 47093,
+      "canonical_sha256": "24d47bc3f0d9560c9f8189fd26aa5f95a62067b2c5cc0af7105fe1a843143d75"
+    },
+    {
+      "relative_path": "4_figures/Fig1/current_v1.5/Figure1_finite_units_and_correction_paths.png",
+      "canonical_bytes": 401783,
+      "canonical_sha256": "8e01a3c8b646b6285fac0473c1312101668587c18941e577c75458dfa7af20cd"
+    },
+    {
+      "relative_path": "4_figures/Fig1/current_v1.5/Figure1_finite_units_and_correction_paths.svg",
+      "canonical_bytes": 7357,
+      "canonical_sha256": "9d30919b9f3fec4aac8dab15987dfdaf32a41b814d1d1bf8b1b3ee5fe9bd664d"
+    },
+    {
+      "relative_path": "4_figures/Fig2/current_v1.5/Figure2_evidence_and_implementation_provenance.pdf",
+      "canonical_bytes": 38922,
+      "canonical_sha256": "afa8cfcc7ec1810184618fcffddbd1b5eb8caefa13b7202124976d32ae2f6b46"
+    },
+    {
+      "relative_path": "4_figures/Fig2/current_v1.5/Figure2_evidence_and_implementation_provenance.png",
+      "canonical_bytes": 960597,
+      "canonical_sha256": "6d41db265e6534f995377b51d6200f5c8444f944a005a6476d96f4ea40babfdb"
+    },
+    {
+      "relative_path": "4_figures/Fig2/current_v1.5/Figure2_evidence_and_implementation_provenance.svg",
+      "canonical_bytes": 49692,
+      "canonical_sha256": "816fd61f49ba31f16b1f1dc33ef0f6367d8ae7ae5cc1a86f9042092754118f2c"
+    },
+    {
+      "relative_path": "4_figures/Fig3/current_v1.5/Figure3_AVAglio_shared_population_model_ladder.pdf",
+      "canonical_bytes": 45062,
+      "canonical_sha256": "157e6bd49a3ee56c128a70c70bdcc74492e46bef7e4092373d6f0fa953d0109f"
+    },
+    {
+      "relative_path": "4_figures/Fig3/current_v1.5/Figure3_AVAglio_shared_population_model_ladder.png",
+      "canonical_bytes": 336820,
+      "canonical_sha256": "92eb403de01a6283dd77a5a4cdc78258d58cc4e86c805a9ecc6505c6e0680fc2"
+    },
+    {
+      "relative_path": "4_figures/Fig3/current_v1.5/Figure3_AVAglio_shared_population_model_ladder.svg",
+      "canonical_bytes": 28086,
+      "canonical_sha256": "11891d5c7b62b700fa24f6439713d8e6f574f341e781f381504b1e76fda221e6"
+    },
+    {
+      "relative_path": "4_figures/Fig4/current_v1.5/Figure4_TRIO_partial_identifiability.pdf",
+      "canonical_bytes": 43426,
+      "canonical_sha256": "b9fbd54ec8917e76b77b92c26852b05c0830efd709ac353a3ac2d8fc89ffc84a"
+    },
+    {
+      "relative_path": "4_figures/Fig4/current_v1.5/Figure4_TRIO_partial_identifiability.png",
+      "canonical_bytes": 383214,
+      "canonical_sha256": "2cbc97cb53b5aa85d131f282b070ab1e233b7a174a448c767b911284d832a910"
+    },
+    {
+      "relative_path": "4_figures/Fig4/current_v1.5/Figure4_TRIO_partial_identifiability.svg",
+      "canonical_bytes": 18301,
+      "canonical_sha256": "201857246130e328e510c81191f019e230063f07207b2b2947ee8c47b15d4532"
+    },
+    {
+      "relative_path": "4_figures/Fig5/current_v1.5/FigureS1_cross_trial_eligibility.pdf",
+      "canonical_bytes": 43744,
+      "canonical_sha256": "e0364fd58ec32802f2ef0e248aea209684b3fec75aaf59b36e3cd6ec7f72942a"
+    },
+    {
+      "relative_path": "4_figures/Fig5/current_v1.5/FigureS1_cross_trial_eligibility.png",
+      "canonical_bytes": 249516,
+      "canonical_sha256": "dbebf657f0395e6dac89996933c3ba22893d384fed979c63b75fec815f2e73b1"
+    },
+    {
+      "relative_path": "4_figures/Fig5/current_v1.5/FigureS1_cross_trial_eligibility.svg",
+      "canonical_bytes": 4892,
+      "canonical_sha256": "49b26192f6319b8aae53b7ab480a6e3643d12bc3f07a2cd7f99b264bc47e6eea"
+    },
+    {
+      "relative_path": "4_figures/Fig6/current_v1.5/FigureS2_all23_absolute_effect_sensitivities.pdf",
+      "canonical_bytes": 53643,
+      "canonical_sha256": "8b131f90b405fe053fd266234e51a4ad9c719ad5984ab897058d2fb37caaf706"
+    },
+    {
+      "relative_path": "4_figures/Fig6/current_v1.5/FigureS2_all23_absolute_effect_sensitivities.png",
+      "canonical_bytes": 691935,
+      "canonical_sha256": "4e51a85a34202494d03839c66e4fe59a01fa3feea2ada9aa7d243a5b70397088"
+    },
+    {
+      "relative_path": "4_figures/Fig6/current_v1.5/FigureS2_all23_absolute_effect_sensitivities.svg",
+      "canonical_bytes": 44996,
+      "canonical_sha256": "45dde388b9f1728dec89ffe113e0bc9a3c3aff72133cbc484e4c2c162cf60a02"
+    },
+    {
+      "relative_path": "4_figures/Fig7/current_v1.5/FigureS3_all27_historical_primary_estimates.pdf",
+      "canonical_bytes": 52871,
+      "canonical_sha256": "c8440cbde11c885aee6d4d32fc6f4f4fc67ae0e2e78b6ac102e8710dc6e45a2c"
+    },
+    {
+      "relative_path": "4_figures/Fig7/current_v1.5/FigureS3_all27_historical_primary_estimates.png",
+      "canonical_bytes": 748276,
+      "canonical_sha256": "4a2621176aad77eaaf24f22a59823193821bc5c7a71330b365d89df525933caa"
+    },
+    {
+      "relative_path": "4_figures/Fig7/current_v1.5/FigureS3_all27_historical_primary_estimates.svg",
+      "canonical_bytes": 49487,
+      "canonical_sha256": "60a800d44ba2544f4647ea6b10505d6f9310010b8238c31b2614c38433aa3c5b"
+    },
+    {
+      "relative_path": "5_manuscript/current_v1.5/Figure_legends_v1.5_20261012.md",
+      "canonical_bytes": 7040,
+      "canonical_sha256": "f49be384b3f4dd716354c6b98cde62bee1c3893c6d2ae95cfd860cc1f26fe1b5"
+    },
+    {
+      "relative_path": "5_manuscript/current_v1.5/QiTeng_RPv4_author_review_candidate_v1.5_20261012.md",
+      "canonical_bytes": 46423,
+      "canonical_sha256": "43b0f0062b865914553dea2aaf7790ed62cece5f6d560ba98c23e52af032b53f"
+    },
+    {
+      "relative_path": "3_results/current_v1.5/Supplementary_Table_S1_AVAglio_A0_A4_10rows.tsv",
+      "canonical_bytes": 4946,
+      "canonical_sha256": "96344ec2710a6c4eb628efda4c3c0124db0282146dd62c1471d5cf57014fd445"
+    },
+    {
+      "relative_path": "3_results/current_v1.5/Supplementary_Table_S2_cross_trial_historical_current_13rows.tsv",
+      "canonical_bytes": 5233,
+      "canonical_sha256": "10fb0087b84358fded840253f495d2a43e14e702a1b8aeece8dbbf45cce03512"
+    },
+    {
+      "relative_path": "3_results/current_v1.5/Supplementary_Table_S3_absolute_effect_current_role_23rows.tsv",
+      "canonical_bytes": 20893,
+      "canonical_sha256": "95530df94c01d87f59b62d2642316b933e2cfd747b4d7c9a9cfd556fe2763c5f"
+    },
+    {
+      "relative_path": "3_results/current_v1.5/Table1_22objects_full_provenance_and_display_crosswalk.tsv",
+      "canonical_bytes": 33082,
+      "canonical_sha256": "ea22d0ef183ed1c3f4e30b23421989e9a316902a6f7afb04a971fe6b9e0b683e"
+    },
+    {
+      "relative_path": "3_results/current_v1.5/TRIO_all_24_conditional_feasible_states.tsv",
+      "canonical_bytes": 581,
+      "canonical_sha256": "ca309a474701c9ea60e0d4fbaef645533452eaebf1121fcf9a8d2a3acbd0a7d3"
+    },
+    {
+      "relative_path": "3_results/supplementary_csv/Additional_file_1_AVAglio_A0_A4.csv",
+      "canonical_bytes": 4949,
+      "canonical_sha256": "8f9b78ef2df89f4082c340d09e31a3720a5f5a7e2c1eafd9fb0384b5554f2ed2"
+    },
+    {
+      "relative_path": "3_results/supplementary_csv/Additional_file_2_cross_trial_eligibility.csv",
+      "canonical_bytes": 5236,
+      "canonical_sha256": "586dbf6745932132aa99b75385ee0d55f58c251545fcbcd273bc60fed0d8439c"
+    },
+    {
+      "relative_path": "3_results/supplementary_csv/Additional_file_3_absolute_effect_sensitivity.csv",
+      "canonical_bytes": 20896,
+      "canonical_sha256": "fea826e2fa1c6a7481aba208937e334c1ed54f8d7a1619a632c450cdc301ef25"
+    }
+  ],
+  "count": 31,
+  "hash_semantics": "Canonical LF for text, exact bytes for binary; figure and source raw-byte contracts are separately enforced.",
+  "scope": "Published manuscript, legends, figure formats and aggregate tables only; not a journal-upload bundle."
+}

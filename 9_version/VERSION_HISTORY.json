@@ -1,0 +1,10 @@
+{
+  "current_manuscript": "v1.5 AUTHOR_REVIEW",
+  "date": "2026-10-12",
+  "previous_public_commit": "aaf1a956d143ae6a46ba21637c00ba86670a9889",
+  "archive_directory": "8_archive/legacy_public_snapshot_v1.4",
+  "science": "Frozen primary values and labels unchanged; display provenance and main/supplement owners refined",
+  "repository_recreated_this_round": false,
+  "force_push_used": false,
+  "submission": "HOLD"
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-11",
+  "stage": "V4_S2_TARGETED_AVAGLIO_A2_EXECUTION_AND_MODEL_LADDER_DIAGNOSTICS",
+  "status": "ACCEPT_V4_S2_AVAGLIO_A2",
+  "primary_results": [
+    {
+      "claim_id": "GBM_01",
+      "signature": "Phillips_proneural35",
+      "n": 333,
+      "events": 260,
+      "interaction_hr": 0.612401785931,
+      "ci95_low": 0.355187161818,
+      "ci95_high": 1.05588260987,
+      "interaction_p": 0.0776784765423,
+      "interpretation": "same-trial specification bridge; not independently significant"
+    },
+    {
+      "claim_id": "GBM_02",
+      "signature": "Verhaak_proneural",
+      "n": 333,
+      "events": 260,
+      "interaction_hr": 0.513355342457,
+      "ci95_low": 0.295766744275,
+      "ci95_high": 0.891018725836,
+      "interaction_p": 0.0177822204946,
+      "interpretation": "same-trial nominal interaction; not independent validation"
+    }
+  ],
+  "proportional_hazards": {
+    "Phillips_interaction_p": 0.52220940240466,
+    "Phillips_global_p": 0.290352787833591,
+    "Verhaak_interaction_p": 0.230790052785601,
+    "Verhaak_global_p": 0.208342735034986
+  },
+  "validation": {
+    "status": "PASS",
+    "checks_passed": 17,
+    "checks_total": 17,
+    "independent_R_reproduction": "PASS"
+  },
+  "historical_results_modified": false,
+  "primary_labels_modified": false,
+  "github_sync_performed": false,
+  "submission": "HOLD",
+  "next_stage": "V4_S3_TRIO_RANDOMIZATION_IDENTIFIABILITY_FINAL_CLOSURE",
+  "gate": "ACCEPT_V4_S2_AVAGLIO_A2__READY_FOR_V4_S3_TRIO_IDENTIFIABILITY_CLOSURE__HOLD_SUBMISSION"
+}

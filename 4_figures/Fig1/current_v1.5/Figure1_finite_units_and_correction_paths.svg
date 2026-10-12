@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="270pt" viewBox="0 0 518.740157 270" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-12T16:09:39.294116</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 270 
+L 518.740157 270 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="21.493987" y="17.545479" transform="rotate(-0 21.493987 17.545479)">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="40.545475" y="33.878188" transform="rotate(-0 40.545475 33.878188)">28</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="74.414788" y="33.873267" transform="rotate(-0 74.414788 33.873267)">historical candidates</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="40.545475" y="49.082017" transform="rotate(-0 40.545475 49.082017)">22</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="74.414788" y="49.036079" transform="rotate(-0 74.414788 49.036079)">claim–estimand objects</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="40.545475" y="64.285846" transform="rotate(-0 40.545475 64.285846)">15</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="74.414788" y="64.239908" transform="rotate(-0 74.414788 64.239908)">objects with local estimates</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="40.545475" y="79.489674" transform="rotate(-0 40.545475 79.489674)">27</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="74.414788" y="79.443737" transform="rotate(-0 74.414788 79.443737)">historical primary model rows</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="36.311811" y="16.3" transform="rotate(-0 36.311811 16.3)">Different units, not a screening denominator</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="281.864327" y="17.545479" transform="rotate(-0 281.864327 17.545479)">b</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="300.915815" y="32.579324" transform="rotate(-0 300.915815 32.579324)">Published use and source claim</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="300.915815" y="46.124708" transform="rotate(-0 300.915815 46.124708)">Evidence design and comparison</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="300.915815" y="59.752124" transform="rotate(-0 300.915815 59.752124)">Implementation and provenance</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="300.915815" y="73.297508" transform="rotate(-0 300.915815 73.297508)">Population and target estimand</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="300.915815" y="86.924924" transform="rotate(-0 300.915815 86.924924)">Current inferential role</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="296.682151" y="16.3" transform="rotate(-0 296.682151 16.3)">Separate evidence dimensions</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_2">
+    <path d="M 36.311811 203.168571 
+L 258.176976 203.168571 
+L 258.176976 134.665714 
+L 36.311811 134.665714 
+z
+" clip-path="url(#pd89332f864)" style="fill: #eef4f8"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 286.500189 203.168571 
+L 508.365354 203.168571 
+L 508.365354 134.665714 
+L 286.500189 134.665714 
+z
+" clip-path="url(#pd89332f864)" style="fill: #eef4f8"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="3.268063" y="119.766964" transform="rotate(-0 3.268063 119.766964)">c</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="45.752882" y="151.178638" transform="rotate(-0 45.752882 151.178638)">AVAglio: reconstruct the specified analysis</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(45.752882 172.976183)">Recoverable population and covariate rules</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(45.752882 183.030261)">A2/A3: same 333 participants, different models</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(45.752882 193.084339)">Same-trial sensitivity; no independent validation</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="295.94126" y="151.178638" transform="rotate(-0 295.94126 151.178638)">TRIO: qualify what can be inferred</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(295.94126 173.061496)">Arms 1/2 identifiable by trial design</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(295.94126 183.087902)">Arm 3 phase–marker mapping unresolved</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(295.94126 193.07898)">Aggregate bounds cannot recover interaction</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="36.311811" y="120.957143" transform="rotate(-0 36.311811 120.957143)">Recoverable rules and unresolved identity require different actions</text>
+   </g>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="36.311811" y="255.15" transform="rotate(-0 36.311811 255.15)">Historical computations retained; no outcome-driven reselection or replacement denominator.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd89332f864">
+   <rect x="36.311811" y="128.957143" width="472.053543" height="95.142857"/>
+  </clipPath>
+ </defs>
+</svg>

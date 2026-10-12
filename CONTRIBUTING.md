@@ -10,8 +10,8 @@ Contributions should preserve four boundaries:
 Before opening a pull request, run:
 
 ```bash
-python scripts/build_manifest.py
-python scripts/validate_public_release.py
+python 2_code/build_manifest.py
+python 2_code/validate_public_release.py
 ```
 
 Describe the scientific reason for each material change and identify every

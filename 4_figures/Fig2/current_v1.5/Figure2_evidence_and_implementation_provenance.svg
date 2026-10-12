@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="496.8pt" viewBox="0 0 518.740157 496.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-12T16:09:40.249732</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 496.8 
+L 518.740157 496.8 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 28.530709 82.680074 
+L 508.726666 82.680074 
+L 508.726666 69.544345 
+L 28.530709 69.544345 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 28.530709 113.299488 
+L 508.726666 113.299488 
+L 508.726666 100.16376 
+L 28.530709 100.16376 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 28.530709 143.918903 
+L 508.726666 143.918903 
+L 508.726666 130.783174 
+L 28.530709 130.783174 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 28.530709 174.538317 
+L 508.726666 174.538317 
+L 508.726666 161.402589 
+L 28.530709 161.402589 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 28.530709 205.157732 
+L 508.726666 205.157732 
+L 508.726666 192.022003 
+L 28.530709 192.022003 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 28.530709 235.777146 
+L 508.726666 235.777146 
+L 508.726666 222.641418 
+L 28.530709 222.641418 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 28.530709 266.396561 
+L 508.726666 266.396561 
+L 508.726666 253.260832 
+L 28.530709 253.260832 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 28.530709 297.015975 
+L 508.726666 297.015975 
+L 508.726666 283.880247 
+L 28.530709 283.880247 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 28.530709 327.63539 
+L 508.726666 327.63539 
+L 508.726666 314.499661 
+L 28.530709 314.499661 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 28.530709 358.254804 
+L 508.726666 358.254804 
+L 508.726666 345.119076 
+L 28.530709 345.119076 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 28.530709 388.874219 
+L 508.726666 388.874219 
+L 508.726666 375.73849 
+L 28.530709 375.73849 
+z
+" clip-path="url(#p8f1228650b)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="62.133153" transform="rotate(-0 192.617769 62.133153)">Use</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="62.133153" transform="rotate(-0 218.678656 62.133153)">Claim</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(240.39235 55.363953)">Source</text>
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(237.72235 62.133153)">evidence</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(289.694423 55.363953)">Local</text>
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(280.621923 62.133153)">provenance</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(329.629124 55.288953)">Historic</text>
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(332.112624 62.058153)">grade</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="62.133153" transform="rotate(-0 376.491799 62.133153)">Population</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="62.133153" transform="rotate(-0 415.583128 62.133153)">Estimand</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(452.209311 55.363953)">Current</text>
+    <text style="font-size: 6.4px; font-family: 'Arial'" transform="translate(457.543311 62.133153)">role</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="62.037106" transform="rotate(-0 30.943754 62.037106)">Object / context</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="74.615622" transform="rotate(-0 30.943754 74.615622)">HER2_01  ESR1_DESMEDT</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="81.109737" transform="rotate(-0 30.943754 81.109737)">HER2+ breast</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="77.508194" transform="rotate(-0 192.617769 77.508194)">U1</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="77.508194" transform="rotate(-0 218.678656 77.508194)">positive</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="77.508194" transform="rotate(-0 250.53085 77.508194)">association</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="77.508194" transform="rotate(-0 297.343923 77.508194)">formula</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="77.476553" transform="rotate(-0 340.296124 77.476553)">ungraded</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="77.508194" transform="rotate(-0 376.491799 77.508194)">mixed*</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="77.508194" transform="rotate(-0 415.583128 77.508194)">mismatch</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="77.5411" transform="rotate(-0 462.878811 77.5411)">qualified</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="89.925329" transform="rotate(-0 30.943754 89.925329)">HER2_02  ERBB2_DESMEDT_UP</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="96.419444" transform="rotate(-0 30.943754 96.419444)">HER2+ breast</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="92.817901" transform="rotate(-0 192.617769 92.817901)">U1</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="92.786261" transform="rotate(-0 218.678656 92.786261)">negative</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="92.817901" transform="rotate(-0 250.53085 92.817901)">association</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="92.817901" transform="rotate(-0 297.343923 92.817901)">formula</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="92.786261" transform="rotate(-0 340.296124 92.786261)">ungraded</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="92.817901" transform="rotate(-0 376.491799 92.817901)">mixed*</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="92.817901" transform="rotate(-0 415.583128 92.817901)">mismatch</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="92.850807" transform="rotate(-0 462.878811 92.850807)">qualified</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="105.236849" transform="rotate(-0 30.943754 105.236849)">HER2_03  PAM50_PROLIF</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="111.729151" transform="rotate(-0 30.943754 111.729151)">HER2+ breast</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="108.127608" transform="rotate(-0 192.617769 108.127608)">U1</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="108.095968" transform="rotate(-0 218.678656 108.095968)">negative</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="108.127608" transform="rotate(-0 250.53085 108.127608)">association</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="108.127608" transform="rotate(-0 297.343923 108.127608)">formula</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="108.095968" transform="rotate(-0 340.296124 108.095968)">ungraded</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="108.127608" transform="rotate(-0 376.491799 108.127608)">mixed*</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="108.127608" transform="rotate(-0 415.583128 108.127608)">mismatch</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="108.160515" transform="rotate(-0 462.878811 108.160515)">qualified</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="120.544744" transform="rotate(-0 30.943754 120.544744)">HER2_04  Immune_ESTIMATE</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="127.038859" transform="rotate(-0 30.943754 127.038859)">HER2+ breast</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="123.437316" transform="rotate(-0 192.617769 123.437316)">U1</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="123.405675" transform="rotate(-0 218.678656 123.405675)">exploratory</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="123.437316" transform="rotate(-0 250.53085 123.437316)">association</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="123.437316" transform="rotate(-0 297.343923 123.437316)">formula</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="123.405675" transform="rotate(-0 340.296124 123.405675)">ungraded</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="123.437316" transform="rotate(-0 376.491799 123.437316)">mixed*</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="123.437316" transform="rotate(-0 415.583128 123.437316)">mismatch</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="123.470222" transform="rotate(-0 462.878811 123.470222)">qualified</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="135.856263" transform="rotate(-0 30.943754 135.856263)">HER2_05  GEPARSIXTO_IMMUNE</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="142.348566" transform="rotate(-0 30.943754 142.348566)">HER2+ breast</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="138.747023" transform="rotate(-0 192.617769 138.747023)">U1</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="138.715382" transform="rotate(-0 218.678656 138.715382)">exploratory</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="138.747023" transform="rotate(-0 250.53085 138.747023)">association</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="138.747023" transform="rotate(-0 297.343923 138.747023)">formula</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="138.715382" transform="rotate(-0 340.296124 138.715382)">ungraded</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="138.747023" transform="rotate(-0 376.491799 138.747023)">mixed*</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="138.747023" transform="rotate(-0 415.583128 138.747023)">mismatch</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="138.779929" transform="rotate(-0 462.878811 138.779929)">qualified</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="151.130174" transform="rotate(-0 30.943754 151.130174)">HER2_06  Teff-high</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="157.658273" transform="rotate(-0 30.943754 157.658273)">HER2+ breast</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="154.05673" transform="rotate(-0 192.617769 154.05673)">U1</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="154.02509" transform="rotate(-0 218.678656 154.02509)">exploratory</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="154.05673" transform="rotate(-0 250.53085 154.05673)">association</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="154.05673" transform="rotate(-0 297.343923 154.05673)">formula</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="154.02509" transform="rotate(-0 340.296124 154.02509)">ungraded</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="154.05673" transform="rotate(-0 376.491799 154.05673)">mixed*</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="154.05673" transform="rotate(-0 415.583128 154.05673)">mismatch</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="154.089636" transform="rotate(-0 462.878811 154.089636)">qualified</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="166.447131" transform="rotate(-0 30.943754 166.447131)">HER2_07  N9831_IMMUNE</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="172.96798" transform="rotate(-0 30.943754 172.96798)">HER2+ breast</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="169.366437" transform="rotate(-0 192.617769 169.366437)">U1</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="169.334797" transform="rotate(-0 218.678656 169.334797)">exploratory</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="169.366437" transform="rotate(-0 250.53085 169.366437)">association</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="169.366437" transform="rotate(-0 297.343923 169.366437)">formula</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="169.334797" transform="rotate(-0 340.296124 169.334797)">ungraded</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="169.366437" transform="rotate(-0 376.491799 169.366437)">mixed*</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="169.366437" transform="rotate(-0 415.583128 169.366437)">mismatch</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="169.399344" transform="rotate(-0 462.878811 169.399344)">qualified</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="181.783573" transform="rotate(-0 30.943754 181.783573)">HER2_08  Stromal_ESTIMATE</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="188.277688" transform="rotate(-0 30.943754 188.277688)">HER2+ breast</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="184.676145" transform="rotate(-0 192.617769 184.676145)">U1</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="184.644504" transform="rotate(-0 218.678656 184.644504)">negative</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="184.676145" transform="rotate(-0 250.53085 184.676145)">association</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="184.676145" transform="rotate(-0 297.343923 184.676145)">formula</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="184.644504" transform="rotate(-0 340.296124 184.644504)">ungraded</text>
+   </g>
+   <g id="text_87">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="184.676145" transform="rotate(-0 376.491799 184.676145)">mixed*</text>
+   </g>
+   <g id="text_88">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="184.676145" transform="rotate(-0 415.583128 184.676145)">mismatch</text>
+   </g>
+   <g id="text_89">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="184.709051" transform="rotate(-0 462.878811 184.709051)">qualified</text>
+   </g>
+   <g id="text_90">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="197.09328" transform="rotate(-0 30.943754 197.09328)">HER2_09  Stromal_FARMER</text>
+   </g>
+   <g id="text_91">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="203.587395" transform="rotate(-0 30.943754 203.587395)">HER2+ breast</text>
+   </g>
+   <g id="text_92">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="199.985852" transform="rotate(-0 192.617769 199.985852)">U1</text>
+   </g>
+   <g id="text_93">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="199.954211" transform="rotate(-0 218.678656 199.954211)">negative</text>
+   </g>
+   <g id="text_94">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="199.985852" transform="rotate(-0 250.53085 199.985852)">association</text>
+   </g>
+   <g id="text_95">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="199.985852" transform="rotate(-0 297.343923 199.985852)">formula</text>
+   </g>
+   <g id="text_96">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="199.954211" transform="rotate(-0 340.296124 199.954211)">ungraded</text>
+   </g>
+   <g id="text_97">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="199.985852" transform="rotate(-0 376.491799 199.985852)">mixed*</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="199.985852" transform="rotate(-0 415.583128 199.985852)">mismatch</text>
+   </g>
+   <g id="text_99">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="200.018758" transform="rotate(-0 462.878811 200.018758)">qualified</text>
+   </g>
+   <g id="text_100">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="212.402987" transform="rotate(-0 30.943754 212.402987)">HER2_10  Stromal_DESMEDT</text>
+   </g>
+   <g id="text_101">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="218.897102" transform="rotate(-0 30.943754 218.897102)">HER2+ breast</text>
+   </g>
+   <g id="text_102">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="215.295559" transform="rotate(-0 192.617769 215.295559)">U1</text>
+   </g>
+   <g id="text_103">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="215.263918" transform="rotate(-0 218.678656 215.263918)">negative</text>
+   </g>
+   <g id="text_104">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="215.295559" transform="rotate(-0 250.53085 215.295559)">association</text>
+   </g>
+   <g id="text_105">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="215.295559" transform="rotate(-0 297.343923 215.295559)">formula</text>
+   </g>
+   <g id="text_106">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="215.263918" transform="rotate(-0 340.296124 215.263918)">ungraded</text>
+   </g>
+   <g id="text_107">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="215.295559" transform="rotate(-0 376.491799 215.295559)">mixed*</text>
+   </g>
+   <g id="text_108">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="215.295559" transform="rotate(-0 415.583128 215.295559)">mismatch</text>
+   </g>
+   <g id="text_109">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="215.328465" transform="rotate(-0 462.878811 215.328465)">qualified</text>
+   </g>
+   <g id="text_110">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="227.712694" transform="rotate(-0 30.943754 227.712694)">TNBC_01  IGG14</text>
+   </g>
+   <g id="text_111">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="234.206809" transform="rotate(-0 30.943754 234.206809)">TNBC</text>
+   </g>
+   <g id="text_112">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="230.605266" transform="rotate(-0 192.617769 230.605266)">U1</text>
+   </g>
+   <g id="text_113">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="230.605266" transform="rotate(-0 218.678656 230.605266)">mixed</text>
+   </g>
+   <g id="text_114">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="230.605266" transform="rotate(-0 250.53085 230.605266)">trial context</text>
+   </g>
+   <g id="text_115">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="230.573626" transform="rotate(-0 297.343923 230.573626)">bridge</text>
+   </g>
+   <g id="text_116">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="230.605266" transform="rotate(-0 340.296124 230.605266)">F1 hist.</text>
+   </g>
+   <g id="text_117">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="230.605266" transform="rotate(-0 376.491799 230.605266)">trial</text>
+   </g>
+   <g id="text_118">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="230.605266" transform="rotate(-0 415.583128 230.605266)">dependent</text>
+   </g>
+   <g id="text_119">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="230.605266" transform="rotate(-0 462.878811 230.605266)">reframed</text>
+   </g>
+   <g id="text_120">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="243.022402" transform="rotate(-0 30.943754 243.022402)">TNBC_03  revisedPARPi7_FFPE</text>
+   </g>
+   <g id="text_121">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="249.516516" transform="rotate(-0 30.943754 249.516516)">HER2− breast</text>
+   </g>
+   <g id="text_122">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="245.914974" transform="rotate(-0 192.617769 245.914974)">U1</text>
+   </g>
+   <g id="text_123">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="245.914974" transform="rotate(-0 218.678656 245.914974)">positive</text>
+   </g>
+   <g id="text_124">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="245.914974" transform="rotate(-0 250.53085 245.914974)">trial context</text>
+   </g>
+   <g id="text_125">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="245.914974" transform="rotate(-0 297.343923 245.914974)">score reuse</text>
+   </g>
+   <g id="text_126">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="245.914974" transform="rotate(-0 340.296124 245.914974)">F0 hist.</text>
+   </g>
+   <g id="text_127">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="245.94788" transform="rotate(-0 376.491799 245.94788)">platform</text>
+   </g>
+   <g id="text_128">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="245.883333" transform="rotate(-0 415.583128 245.883333)">source only</text>
+   </g>
+   <g id="text_129">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="245.914974" transform="rotate(-0 462.878811 245.914974)">reframed</text>
+   </g>
+   <g id="text_130">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="258.332109" transform="rotate(-0 30.943754 258.332109)">TNBC_04  CIN70</text>
+   </g>
+   <g id="text_131">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="264.826224" transform="rotate(-0 30.943754 264.826224)">TNBC</text>
+   </g>
+   <g id="text_132">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="261.224681" transform="rotate(-0 192.617769 261.224681)">U2</text>
+   </g>
+   <g id="text_133">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="261.224681" transform="rotate(-0 218.678656 261.224681)">mixed</text>
+   </g>
+   <g id="text_134">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="261.224681" transform="rotate(-0 250.53085 261.224681)">trial context</text>
+   </g>
+   <g id="text_135">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="261.224681" transform="rotate(-0 297.343923 261.224681)">approx.</text>
+   </g>
+   <g id="text_136">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="261.224681" transform="rotate(-0 340.296124 261.224681)">F2 hist.</text>
+   </g>
+   <g id="text_137">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="261.224681" transform="rotate(-0 376.491799 261.224681)">trial</text>
+   </g>
+   <g id="text_138">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="261.224681" transform="rotate(-0 415.583128 261.224681)">approx.</text>
+   </g>
+   <g id="text_139">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="261.224681" transform="rotate(-0 462.878811 261.224681)">reframed</text>
+   </g>
+   <g id="text_140">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="273.607832" transform="rotate(-0 30.943754 273.607832)">RCC_01  IMmotion_Angio6</text>
+   </g>
+   <g id="text_141">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="280.135931" transform="rotate(-0 30.943754 280.135931)">RCC</text>
+   </g>
+   <g id="text_142">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="276.534388" transform="rotate(-0 192.617769 276.534388)">U2</text>
+   </g>
+   <g id="text_143">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="276.502747" transform="rotate(-0 218.678656 276.502747)">exploratory</text>
+   </g>
+   <g id="text_144">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="276.502747" transform="rotate(-0 250.53085 276.502747)">exploratory</text>
+   </g>
+   <g id="text_145">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="276.471107" transform="rotate(-0 297.343923 276.471107)">aggregate</text>
+   </g>
+   <g id="text_146">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="276.534388" transform="rotate(-0 340.296124 276.534388)">F0 hist.</text>
+   </g>
+   <g id="text_147">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="276.471107" transform="rotate(-0 376.491799 276.471107)">aggregate</text>
+   </g>
+   <g id="text_148">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="276.534388" transform="rotate(-0 415.583128 276.534388)">not located</text>
+   </g>
+   <g id="text_149">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="276.534388" transform="rotate(-0 462.878811 276.534388)">reframed</text>
+   </g>
+   <g id="text_150">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="288.951523" transform="rotate(-0 30.943754 288.951523)">RCC_02  IMmotion_Teff5</text>
+   </g>
+   <g id="text_151">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="295.445638" transform="rotate(-0 30.943754 295.445638)">RCC</text>
+   </g>
+   <g id="text_152">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="291.844095" transform="rotate(-0 192.617769 291.844095)">U2</text>
+   </g>
+   <g id="text_153">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="291.812455" transform="rotate(-0 218.678656 291.812455)">exploratory</text>
+   </g>
+   <g id="text_154">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="291.812455" transform="rotate(-0 250.53085 291.812455)">exploratory</text>
+   </g>
+   <g id="text_155">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="291.780814" transform="rotate(-0 297.343923 291.780814)">aggregate</text>
+   </g>
+   <g id="text_156">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="291.844095" transform="rotate(-0 340.296124 291.844095)">F0 hist.</text>
+   </g>
+   <g id="text_157">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="291.780814" transform="rotate(-0 376.491799 291.780814)">aggregate</text>
+   </g>
+   <g id="text_158">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="291.844095" transform="rotate(-0 415.583128 291.844095)">not located</text>
+   </g>
+   <g id="text_159">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="291.844095" transform="rotate(-0 462.878811 291.844095)">reframed</text>
+   </g>
+   <g id="text_160">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="304.227246" transform="rotate(-0 30.943754 304.227246)">RCC_03  IMmotion_Myeloid6</text>
+   </g>
+   <g id="text_161">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="310.755345" transform="rotate(-0 30.943754 310.755345)">RCC</text>
+   </g>
+   <g id="text_162">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="307.153803" transform="rotate(-0 192.617769 307.153803)">U2</text>
+   </g>
+   <g id="text_163">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="307.122162" transform="rotate(-0 218.678656 307.122162)">exploratory</text>
+   </g>
+   <g id="text_164">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="307.122162" transform="rotate(-0 250.53085 307.122162)">exploratory</text>
+   </g>
+   <g id="text_165">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="307.090521" transform="rotate(-0 297.343923 307.090521)">aggregate</text>
+   </g>
+   <g id="text_166">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="307.153803" transform="rotate(-0 340.296124 307.153803)">F0 hist.</text>
+   </g>
+   <g id="text_167">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="307.090521" transform="rotate(-0 376.491799 307.090521)">aggregate</text>
+   </g>
+   <g id="text_168">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="307.122162" transform="rotate(-0 415.583128 307.122162)">subgroup only</text>
+   </g>
+   <g id="text_169">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="307.153803" transform="rotate(-0 462.878811 307.153803)">reframed</text>
+   </g>
+   <g id="text_170">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="319.570938" transform="rotate(-0 30.943754 319.570938)">RCC_04  JAVELIN Immuno26</text>
+   </g>
+   <g id="text_171">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="326.065053" transform="rotate(-0 30.943754 326.065053)">RCC</text>
+   </g>
+   <g id="text_172">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="322.46351" transform="rotate(-0 192.617769 322.46351)">U1</text>
+   </g>
+   <g id="text_173">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="322.46351" transform="rotate(-0 218.678656 322.46351)">association</text>
+   </g>
+   <g id="text_174">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="322.46351" transform="rotate(-0 250.53085 322.46351)">unresolved</text>
+   </g>
+   <g id="text_175">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="322.46351" transform="rotate(-0 297.343923 322.46351)">open source</text>
+   </g>
+   <g id="text_176">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="322.431869" transform="rotate(-0 340.296124 322.431869)">ungraded</text>
+   </g>
+   <g id="text_177">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="322.400229" transform="rotate(-0 376.491799 322.400229)">aggregate</text>
+   </g>
+   <g id="text_178">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="322.46351" transform="rotate(-0 415.583128 322.46351)">audit</text>
+   </g>
+   <g id="text_179">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="322.46351" transform="rotate(-0 462.878811 322.46351)">not evaluable</text>
+   </g>
+   <g id="text_180">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="334.880645" transform="rotate(-0 30.943754 334.880645)">RCC_05  TIS18</text>
+   </g>
+   <g id="text_181">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="341.37476" transform="rotate(-0 30.943754 341.37476)">RCC</text>
+   </g>
+   <g id="text_182">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="337.773217" transform="rotate(-0 192.617769 337.773217)">U1</text>
+   </g>
+   <g id="text_183">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="337.741576" transform="rotate(-0 218.678656 337.741576)">negative</text>
+   </g>
+   <g id="text_184">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="337.773217" transform="rotate(-0 250.53085 337.773217)">association</text>
+   </g>
+   <g id="text_185">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="337.773217" transform="rotate(-0 297.343923 337.773217)">open source</text>
+   </g>
+   <g id="text_186">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="337.741576" transform="rotate(-0 340.296124 337.741576)">ungraded</text>
+   </g>
+   <g id="text_187">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="337.709936" transform="rotate(-0 376.491799 337.709936)">aggregate</text>
+   </g>
+   <g id="text_188">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="337.773217" transform="rotate(-0 415.583128 337.773217)">audit</text>
+   </g>
+   <g id="text_189">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="337.773217" transform="rotate(-0 462.878811 337.773217)">not evaluable</text>
+   </g>
+   <g id="text_190">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="350.190352" transform="rotate(-0 30.943754 350.190352)">GBM_01  Phillips_proneural35</text>
+   </g>
+   <g id="text_191">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="356.684467" transform="rotate(-0 30.943754 356.684467)">GBM</text>
+   </g>
+   <g id="text_192">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="353.082924" transform="rotate(-0 192.617769 353.082924)">U2</text>
+   </g>
+   <g id="text_193">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="353.082924" transform="rotate(-0 218.678656 353.082924)">positive</text>
+   </g>
+   <g id="text_194">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="353.051284" transform="rotate(-0 250.53085 353.051284)">adj. interact.</text>
+   </g>
+   <g id="text_195">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="353.082924" transform="rotate(-0 297.343923 353.082924)">label reuse</text>
+   </g>
+   <g id="text_196">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="353.082924" transform="rotate(-0 340.296124 353.082924)">F1 hist.</text>
+   </g>
+   <g id="text_197">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="353.082924" transform="rotate(-0 376.491799 353.082924)">trial</text>
+   </g>
+   <g id="text_198">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="353.08419" transform="rotate(-0 415.583128 353.08419)">aligned / medium</text>
+   </g>
+   <g id="text_199">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="353.051284" transform="rotate(-0 462.878811 353.051284)">reanalysed</text>
+   </g>
+   <g id="text_200">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="365.500059" transform="rotate(-0 30.943754 365.500059)">GBM_02  Verhaak_proneural</text>
+   </g>
+   <g id="text_201">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="371.994174" transform="rotate(-0 30.943754 371.994174)">GBM</text>
+   </g>
+   <g id="text_202">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="368.392632" transform="rotate(-0 192.617769 368.392632)">U2</text>
+   </g>
+   <g id="text_203">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="368.392632" transform="rotate(-0 218.678656 368.392632)">positive</text>
+   </g>
+   <g id="text_204">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="368.360991" transform="rotate(-0 250.53085 368.360991)">adj. interact.</text>
+   </g>
+   <g id="text_205">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="368.392632" transform="rotate(-0 297.343923 368.392632)">label reuse</text>
+   </g>
+   <g id="text_206">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="368.392632" transform="rotate(-0 340.296124 368.392632)">F1 hist.</text>
+   </g>
+   <g id="text_207">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="368.392632" transform="rotate(-0 376.491799 368.392632)">trial</text>
+   </g>
+   <g id="text_208">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="368.393897" transform="rotate(-0 415.583128 368.393897)">aligned / medium</text>
+   </g>
+   <g id="text_209">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="368.360991" transform="rotate(-0 462.878811 368.360991)">reanalysed</text>
+   </g>
+   <g id="text_210">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="380.809767" transform="rotate(-0 30.943754 380.809767)">RT_01  RSI_GARD10</text>
+   </g>
+   <g id="text_211">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="387.303882" transform="rotate(-0 30.943754 387.303882)">RT</text>
+   </g>
+   <g id="text_212">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="383.702339" transform="rotate(-0 192.617769 383.702339)">U2</text>
+   </g>
+   <g id="text_213">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="383.702339" transform="rotate(-0 218.678656 383.702339)">mixed</text>
+   </g>
+   <g id="text_214">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="383.702339" transform="rotate(-0 250.53085 383.702339)">pooled model</text>
+   </g>
+   <g id="text_215">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="383.639058" transform="rotate(-0 297.343923 383.639058)">aggregate</text>
+   </g>
+   <g id="text_216">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="383.702339" transform="rotate(-0 340.296124 383.702339)">F0 hist.</text>
+   </g>
+   <g id="text_217">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="383.702339" transform="rotate(-0 376.491799 383.702339)">pooled</text>
+   </g>
+   <g id="text_218">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="383.705292" transform="rotate(-0 415.583128 383.705292)">OS, not utility</text>
+   </g>
+   <g id="text_219">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="383.702339" transform="rotate(-0 462.878811 383.702339)">reframed</text>
+   </g>
+   <g id="text_220">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="396.119474" transform="rotate(-0 30.943754 396.119474)">BCI_01  BCI_HI2</text>
+   </g>
+   <g id="text_221">
+    <text style="font-size: 5px; font-family: 'Arial'; text-anchor: start" x="30.943754" y="402.613589" transform="rotate(-0 30.943754 402.613589)">BCI</text>
+   </g>
+   <g id="text_222">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="192.617769" y="399.012046" transform="rotate(-0 192.617769 399.012046)">U2</text>
+   </g>
+   <g id="text_223">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="218.678656" y="399.012046" transform="rotate(-0 218.678656 399.012046)">positive</text>
+   </g>
+   <g id="text_224">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="250.53085" y="399.012046" transform="rotate(-0 250.53085 399.012046)">trial interact.</text>
+   </g>
+   <g id="text_225">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="297.343923" y="399.012046" transform="rotate(-0 297.343923 399.012046)">partial</text>
+   </g>
+   <g id="text_226">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="340.296124" y="399.012046" transform="rotate(-0 340.296124 399.012046)">F3 hist.</text>
+   </g>
+   <g id="text_227">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="376.491799" y="399.012046" transform="rotate(-0 376.491799 399.012046)">nested</text>
+   </g>
+   <g id="text_228">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="415.583128" y="399.012046" transform="rotate(-0 415.583128 399.012046)">limited</text>
+   </g>
+   <g id="text_229">
+    <text style="font-size: 5.4px; font-family: 'Arial'; text-anchor: middle" x="462.878811" y="399.012046" transform="rotate(-0 462.878811 399.012046)">limited</text>
+   </g>
+  </g>
+  <g id="text_230">
+   <text style="font-size: 6px; font-family: 'Arial'; text-anchor: start" x="28.530709" y="460.0368" transform="rotate(-0 28.530709 460.0368)">Historical grade and provenance are separate: score/label reuse is not independent assay execution.</text>
+  </g>
+  <g id="text_231">
+   <text style="font-size: 6px; font-family: 'Arial'; text-anchor: start" x="28.530709" y="470.9664" transform="rotate(-0 28.530709 470.9664)">*TRIO Arm 3 phase unresolved; Arms 1/2 randomized by design. RCC_04 source-design conflict remains explicit.</text>
+  </g>
+  <g id="text_232">
+   <text style="font-size: 6px; font-family: 'Arial'; text-anchor: start" x="28.530709" y="481.896" transform="rotate(-0 28.530709 481.896)">Complete definitions, stable IDs and original fields: Table 1. No composite readiness score.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8f1228650b">
+   <rect x="28.530709" y="34.776" width="485.022047" height="397.44"/>
+  </clipPath>
+ </defs>
+</svg>

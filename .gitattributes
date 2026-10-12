@@ -14,3 +14,7 @@
 *.gz -text
 # These eleven inputs have a historical raw-byte contract, including mixed EOLs.
 public_reproduction_v1_4/source_data/* -text -eol
+# Current aggregate inputs also preserve their independent raw-byte contracts.
+1_data/aggregate/frozen_v1.5/* -text -eol
+# Editable published SVGs retain their figure raw-byte hash contracts too.
+4_figures/**/current_v1.5/*.svg -text -eol

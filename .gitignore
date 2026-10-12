@@ -16,3 +16,4 @@ private/
 secrets/
 .env
 .env.*
+generated_v1_5/

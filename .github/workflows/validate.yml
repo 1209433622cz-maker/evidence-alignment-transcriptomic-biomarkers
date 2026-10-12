@@ -13,4 +13,4 @@ jobs:
         with:
           python-version: "3.12"
       - name: Validate integrity, aggregate-only boundary, and frozen results
-        run: python scripts/validate_public_release.py
+        run: python 2_code/validate_public_release.py

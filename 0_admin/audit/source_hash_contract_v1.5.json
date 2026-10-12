@@ -1,0 +1,82 @@
+{
+  "absolute23.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/absolute23.tsv",
+    "raw_bytes": 19736,
+    "raw_sha256": "cb3829631b2e164b70c12c5a3a2a14b6af15401b196c296004ed97946c562bab"
+  },
+  "avaglio10.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/avaglio10.tsv",
+    "raw_bytes": 4946,
+    "raw_sha256": "96344ec2710a6c4eb628efda4c3c0124db0282146dd62c1471d5cf57014fd445"
+  },
+  "claims10.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/claims10.tsv",
+    "raw_bytes": 3116,
+    "raw_sha256": "84d1808c48e0e54ec796e2ca26386a68e916753ee5f5ab834401d13e17e972eb"
+  },
+  "cross13.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/cross13.tsv",
+    "raw_bytes": 5233,
+    "raw_sha256": "10fb0087b84358fded840253f495d2a43e14e702a1b8aeece8dbbf45cce03512"
+  },
+  "dual8.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/dual8.tsv",
+    "raw_bytes": 933,
+    "raw_sha256": "8318b97afcad093d71cb580936486ff724193a9a599bb6c63b3872f9a2b0c82a"
+  },
+  "objects22.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/objects22.tsv",
+    "raw_bytes": 31220,
+    "raw_sha256": "081e4da7b7a7855fc14ae31f8e9b427a62839539bd2379e6d27cebcebc393b68"
+  },
+  "panelmap13.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/panelmap13.tsv",
+    "raw_bytes": 3050,
+    "raw_sha256": "5a8ee74220011fbe492225aea7e1ddc5bca626fa9d2675fe6ba7a47ca158a6ea"
+  },
+  "s4status.json": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/s4status.json",
+    "raw_bytes": 889,
+    "raw_sha256": "0e71e484674ca26729cdcb866f4af0ac3e3e837aae9752d06f1d45964a27bfa0"
+  },
+  "triage10.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/triage10.tsv",
+    "raw_bytes": 1781,
+    "raw_sha256": "b0ed74340a3a769f7b47d10eb61a07a5ce8f896c6ff4fe67cdee65fe8340958a"
+  },
+  "trioarms3.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/trioarms3.tsv",
+    "raw_bytes": 1000,
+    "raw_sha256": "522e6cf547f27e7e329a900c21a0324515a8c86a5758dd4dec61397e583aee43"
+  },
+  "triobounds9.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/triobounds9.tsv",
+    "raw_bytes": 1240,
+    "raw_sha256": "d030ad258844b352126b7b44baaec585adf1de42962bab1fa75c3ac207adf947"
+  },
+  "primary27.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/primary27.tsv",
+    "raw_bytes": 11249,
+    "raw_sha256": "86d0ca52b237e59d2d8aaccfefb14295a6207158dc76ac7174f09545815502ac"
+  },
+  "V4_S2_independent_R_cox_results.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/V4_S2_independent_R_cox_results.tsv",
+    "raw_bytes": 596,
+    "raw_sha256": "b4a059dc57c1aac657495e5a7fc4586f2a6e5f84bf595fa67e3b5150c0939b7b"
+  },
+  "V4_S2_A2_ph_lifelines.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/V4_S2_A2_ph_lifelines.tsv",
+    "raw_bytes": 1045,
+    "raw_sha256": "a6715abb5d276335432a8f59452d9ba7666cf78b4d2c9ad97f2b7f6b0c0c8833"
+  },
+  "V4_S2_A2_influence_lifelines.tsv": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/V4_S2_A2_influence_lifelines.tsv",
+    "raw_bytes": 932,
+    "raw_sha256": "52391a6ce3fc4065f8fc62f7d9fee4371b7ebfeedc62e7889c485ec43c4476c0"
+  },
+  "V4_S2_final_status.json": {
+    "relative_path": "1_data/aggregate/frozen_v1.5/V4_S2_final_status.json",
+    "raw_bytes": 1540,
+    "raw_sha256": "cb75b2ef8d01cb4843895d8381ba68a2c4986fc9545f0388bbd95e03c23af16a"
+  }
+}
